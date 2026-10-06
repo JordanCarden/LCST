@@ -1,0 +1,37 @@
+.venv
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+/plan.md
+
+# Files kept locally by publication choice.
+/README.md
+/REVIEW.md
+/data/metadata/
+/config/chemical_descriptor_notes.md
+/data/processed/lcst_master_polymer.csv
+/report/
+
+# Automated test files are not part of this project.
+/tests/
+
+# Local refresh backups, logs, and intermediate calculation files.
+/outputs/refresh_backups/
+/outputs/refresh_runs/
+/outputs/**/shards/
+/outputs/feature_importance/coalition_predictions_long.csv
+/outputs/polymer_hierarchical_importance/state_predictions_long.csv
+
+# Generated figures, narrative notes, and duplicate repeat tables stay local.
+/outputs/report_figures/
+/outputs/**/*.png
+/outputs/**/*.pdf
+/outputs/**/results_notes.md
+/outputs/report_evaluation/adaptation_metrics_repeat_*.csv
+/outputs/report_evaluation/adaptation_inventory_repeat_*.csv
+
+# Optional chemical source-audit utilities stay local.
+/scripts/check_chemical_metadata.py
+/lcst_pipeline/chemical_metadata.py

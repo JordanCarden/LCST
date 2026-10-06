@@ -1,0 +1,15 @@
+# Reproducibility pins for Python 3.12.3. These match the environment used to
+# train the retained artifacts and generate the corrected report evaluation.
+huggingface-hub==0.36.2
+joblib==1.4.2
+matplotlib==3.11.1
+numpy==2.2.4
+openpyxl==3.1.5
+pandas==2.2.3
+safetensors==0.7.0
+scikit-learn==1.8.0
+scipy==1.15.2
+tokenizers==0.22.2
+torch==2.6.0
+transformers==4.57.1
+xgboost==3.2.0

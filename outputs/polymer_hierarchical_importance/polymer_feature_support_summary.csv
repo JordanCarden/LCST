@@ -1,0 +1,10 @@
+task,scoring_population,polymer_feature,n_conditions,n_observed,n_missing,n_unique_including_missing,minimum,median,maximum
+regression,all,functionalization,272,268,4,5,60.0,88.0,88.0
+regression,all,molecular_weight,272,268,4,6,20.0,86.0,500.0
+regression,all,concentration,272,272,0,13,0.0,10.0,100.0
+classification,all,functionalization,403,355,48,5,60.0,88.0,88.0
+classification,all,molecular_weight,403,355,48,6,20.0,86.0,500.0
+classification,all,concentration,403,403,0,14,0.0,10.0,100.0
+classification,dexma_only,functionalization,355,355,0,4,60.0,88.0,88.0
+classification,dexma_only,molecular_weight,355,355,0,5,20.0,86.0,500.0
+classification,dexma_only,concentration,355,355,0,13,0.01,10.0,100.0

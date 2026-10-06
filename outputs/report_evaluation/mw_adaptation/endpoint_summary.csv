@@ -1,0 +1,9 @@
+domain,domain_type,task,model_id,metric,units,kmax,baseline,endpoint,fitted_baseline,fitted_endpoint,fitted_improvement,threshold,k90,k90_pool_percent
+20kDa,molecular_weight,regression,two_slot_pca38_buffer_regressor_xgboost,mae,degrees Celsius,11,5.2027136657081545,4.536019657147949,5.313849839093921,4.487413972435237,0.8264358666586835,4.570057559101105,8.0,72.72727272727273
+20kDa,molecular_weight,classification,two_slot_pca38_buffer_classifier_xgboost,accuracy,percent,16,96.0,100.0,96.0,100.0,4.0,99.6,7.0,43.75
+40kDa,molecular_weight,regression,two_slot_pca38_buffer_regressor_xgboost,mae,degrees Celsius,10,5.257634917074171,4.522063456350293,5.674562171565284,4.522063456350293,1.1524987152149908,4.637313327871792,9.0,90.0
+40kDa,molecular_weight,classification,two_slot_pca38_buffer_classifier_xgboost,accuracy,percent,16,96.0,95.0,95.70588235294117,95.70588235294117,0.0,95.70588235294117,,
+86kDa,molecular_weight,regression,two_slot_pca38_buffer_regressor_xgboost,mae,degrees Celsius,183,11.294485838159614,3.4303790940359287,11.294485838159614,3.403304835387376,7.891181002772239,4.1924229356646,26.0,14.207650273224044
+86kDa,molecular_weight,classification,two_slot_pca38_buffer_classifier_xgboost,accuracy,percent,247,82.80952380952382,86.84920634920636,80.64285714285714,89.74375367430922,9.10089653145208,88.83366402116401,188.0,76.11336032388664
+250kDa,molecular_weight,regression,two_slot_pca38_buffer_regressor_xgboost,mae,degrees Celsius,18,18.279625689842582,3.324315154520671,18.279625689842582,3.3221585862901475,14.957467103552435,4.817905296645391,5.0,27.77777777777778
+250kDa,molecular_weight,classification,two_slot_pca38_buffer_classifier_xgboost,accuracy,percent,30,88.00000000000001,91.00000000000001,87.06666666666666,91.00000000000001,3.9333333333333513,90.60666666666668,23.0,76.66666666666667

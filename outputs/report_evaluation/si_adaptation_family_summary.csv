@@ -1,0 +1,7 @@
+domain_type,task,model_id,metric,n_domains,n_defined_k90,mean_k90
+additive,regression,two_slot_pca38_buffer_regressor_xgboost,mae,3,3,37.333333333333336
+additive,classification,two_slot_pca38_buffer_classifier_xgboost,accuracy,3,3,59.666666666666664
+salt,regression,two_slot_pca38_buffer_regressor_xgboost,mae,2,2,16.0
+salt,classification,two_slot_pca38_buffer_classifier_xgboost,accuracy,2,2,76.5
+molecular_weight,regression,two_slot_pca38_buffer_regressor_xgboost,mae,4,4,12.0
+molecular_weight,classification,two_slot_pca38_buffer_classifier_xgboost,accuracy,4,3,

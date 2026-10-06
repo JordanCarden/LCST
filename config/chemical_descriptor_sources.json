@@ -1,0 +1,489 @@
+{
+  "version": "sourced_lookup_2026_09_16_v2",
+  "retrieved_on": "2026-09-16",
+  "policy": {
+    "molecular_descriptors": "PubChem computed properties of the active covalent additive moiety, excluding separate counterions. Carbon count is total carbon atoms of that moiety, not hydrophobic-tail length. Molecular weight remains the dosed compound/formula-unit mass (including counterions), or nominal average polymer mass.",
+    "logp": "PubChem XLogP3 / XLogP3-AA estimate for the specified charged or neutral moiety, NOT an experimental logD or a measured formulation partition coefficient.",
+    "polymer": "F127 carbon/HBA/TPSA values are nominal-chain estimates, not measured or batch-exact values. Two OH termini give HBD=2.",
+    "hlb": "additive_hlb is a mixed-source empirical descriptor: use the literature values reported by Bubli et al. (2025), Table 1, for CTAB, CHAPS and F127; retain the documented Davies calculations for SDS and representative Span-85. Preserve each value's method and source; these are not all Davies calculations or a uniformly measured scale. Urea remains null because no supported HLB value is established.",
+    "hofmeister": "Fixed, externally sourced ordinal convention; rank spacing and anion-minus-cation difference are engineered features, not measured thermodynamic quantities. No experimental LCST labels were used to construct ranks.",
+    "mass_rounding": "Retain existing formula-unit masses used by ingestion; verified against supplier values or PubChem within reporting precision. Do not change experimental concentrations for database rounding differences.",
+    "unchanged": "Workbook parsing, targets, master rows, and MoLFormer structures/PCA scores are unchanged by this lookup correction."
+  },
+  "references": {
+    "pubchem_additives": {
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1176,107670,2681,4329331,9920343/property/MolecularFormula,MolecularWeight,XLogP,TPSA,HBondDonorCount,HBondAcceptorCount,Charge/JSON",
+      "method": "PUG REST computed-property snapshot; XLogP3, Cactvs TPSA/HBD/HBA, formal charge and formula. Per-compound records below."
+    },
+    "pubchem_salts": {
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5284359,4873,5360315,25517,24203,24477,24436,253881,5234,5238,24268,516871/property/MolecularFormula,MolecularWeight,Charge/JSON",
+      "method": "PUG REST molecular formula, mass and net charge snapshot. Ionic charges/stoichiometry follow the registered formula units."
+    },
+    "chaps_mass": {
+      "url": "https://www.sigmaaldrich.com/TR/en/product/sigma/19899",
+      "value_g_mol": 614.88
+    },
+    "ctab_mass": {
+      "url": "https://www.sigmaaldrich.com/IQ/en/product/sigma/h9151",
+      "value_g_mol": 364.45
+    },
+    "f127_supplier": {
+      "url": "https://www.sigmaaldrich.com/US/en/product/sigma/p2443",
+      "method": "Approximate molecular weight 12600; technical support confirms two hydroxyl end groups. Supplier also lists A=101/B=56, illustrating that nominal repeat counts are not batch-exact."
+    },
+    "f127_chain": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32824165/",
+      "doi": "10.3390/polym12081831",
+      "method": "Original SDS/Pluronic study identifies F127 as EO100-PO65-EO100."
+    },
+    "f127_chain_and_mass": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5316244/",
+      "locator": "Table 1",
+      "method": "Nominal EO100-PO65-EO100; manufacturer average mass 12600 and manufacturer HLB 22."
+    },
+    "ertl": {
+      "url": "https://www.peter-ertl.com/reprints/Ertl-JMC-43-3714-2000.pdf",
+      "doi": "10.1021/jm000942e",
+      "locator": "Table 1, p. 3715",
+      "method": "TPSA is an atom-fragment sum: ordinary ether O=9.23 A^2, alcohol OH=20.23 A^2. F127 application is a structural descriptor extrapolation, not a validated polymer surface/transport measurement."
+    },
+    "davies": {
+      "url": "https://es.firp-ula.org/wp-content/uploads/2019/07/57_Chap_Davies.pdf",
+      "locator": "Equation 9 and Tables II-III, pp. 430-431",
+      "method": "HLB=7+hydrophilic contributions-0.475 per CH/CH2/CH3/=CH. Table III supplies sorbitan ester 6.8, sorbitan OH 0.5, ether 1.3, and sodium sulfate headgroup 38.7. Footnote warns against extrapolating EO increments to about 200 EO residues."
+    },
+    "span_vendor": {
+      "url": "https://www.sigmaaldrich.com/US/en/product/sigma/s7135",
+      "method": "Empirical/vendor HLB 1.8; commercial fatty-acid mixture, not a pure-isomer batch measurement."
+    },
+    "surfactant_paper": {
+      "url": "https://www.nature.com/articles/s43246-025-01010-y",
+      "table_url": "https://www.nature.com/articles/s43246-025-01010-y/tables/1",
+      "doi": "10.1038/s43246-025-01010-y",
+      "locator": "Table 1: Summary of surfactant properties, HLB column; Methods: Preparation of surfactants and salt solutions",
+      "method": "Table 1 reports SDS 40, CTAB 21.4, Pluronic F127 22 and CHAPS 25.6. Methods explicitly identifies SDS as Davies-calculated and the other three as commonly reported literature values. Adopt the reported literature values without relabeling them as Davies calculations."
+    },
+    "ion_cations_and_phosphate": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2748947/",
+      "method": "Original study documents sulfate/HPO4/chloride/bromide/nitrate ordering and the reverse cation order Ca>Mg>Li>Na>=K>NH4; also explains system-dependent inversions. The project's cation convention indexes NH4 to Ca."
+    },
+    "ion_iodide": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11439863/",
+      "method": "Original hydrogel study lists Cl>Br>NO3>I>ClO4>SCN in the standard anion sequence; supports inserting iodide at the existing project's vacant rank 7 (perchlorate is not part of that selected subseries)."
+    },
+    "ion_thiosulfate": {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101123",
+      "method": "A published expanded crystallization ranking includes thiosulfate, but does not give a commensurate numeric value on this project's selected scale. The phosphate nomenclature in this list is not an unambiguous formula-resolved mapping."
+    }
+  },
+  "pubchem_properties": [
+    {
+      "CID": 1176,
+      "MolecularFormula": "CH4N2O",
+      "MolecularWeight": 60.056,
+      "XLogP": -1.4,
+      "TPSA": 69.1,
+      "Charge": 0,
+      "HBondDonorCount": 2,
+      "HBondAcceptorCount": 1
+    },
+    {
+      "CID": 107670,
+      "MolecularFormula": "C32H58N2O7S",
+      "MolecularWeight": 614.9,
+      "XLogP": 2.9,
+      "TPSA": 155,
+      "Charge": 0,
+      "HBondDonorCount": 4,
+      "HBondAcceptorCount": 7
+    },
+    {
+      "CID": 2681,
+      "MolecularFormula": "C19H42N+",
+      "MolecularWeight": 284.5,
+      "XLogP": 8,
+      "TPSA": 0,
+      "Charge": 1,
+      "HBondDonorCount": 0,
+      "HBondAcceptorCount": 0
+    },
+    {
+      "CID": 4329331,
+      "MolecularFormula": "C12H25O4S-",
+      "MolecularWeight": 265.39,
+      "XLogP": 4.7,
+      "TPSA": 74.8,
+      "Charge": -1,
+      "HBondDonorCount": 0,
+      "HBondAcceptorCount": 4
+    },
+    {
+      "CID": 9920343,
+      "MolecularFormula": "C60H108O8",
+      "MolecularWeight": 957.5,
+      "XLogP": 21.5,
+      "TPSA": 108,
+      "Charge": 0,
+      "HBondDonorCount": 1,
+      "HBondAcceptorCount": 8
+    }
+  ],
+  "additives": {
+    "CHAPS": {
+      "descriptor_cid": 107670,
+      "class": "zwitterionic",
+      "formula_unit_mass": 614.88,
+      "mass_reference": "chaps_mass",
+      "hlb": {
+        "value": 25.6,
+        "status": "literature_value",
+        "references": [
+          "surfactant_paper"
+        ],
+        "locator": "Table 1, CHAPS row, HLB column (paper reference 10); Methods: Preparation of surfactants and salt solutions",
+        "reason": "Adopt the literature HLB 25.6 reported by Bubli et al. This is not a reconstruction of the unsupported old Davies group sum 18.375."
+      }
+    },
+    "CTAB": {
+      "descriptor_cid": 2681,
+      "formula_unit_cid": 5974,
+      "class": "cationic",
+      "formula_unit_mass": 364.45,
+      "mass_reference": "ctab_mass",
+      "hlb": {
+        "value": 21.4,
+        "status": "literature_value",
+        "references": [
+          "surfactant_paper"
+        ],
+        "locator": "Table 1, CTAB row, HLB column (paper reference 10); Methods: Preparation of surfactants and salt solutions",
+        "reason": "Adopt the literature HLB 21.4 reported by Bubli et al. This does not reuse the old 7.375 calculation, which assigned a tertiary-amine coefficient to quaternary ammonium."
+      }
+    },
+    "Pluronic F127": {
+      "class": "nonionic",
+      "formula_unit_mass": 12600,
+      "mass_reference": "f127_supplier",
+      "nominal_chain": {
+        "eo_left": 100,
+        "po": 65,
+        "eo_right": 100,
+        "hydroxyl_ends": 2,
+        "formula": "C595H1192O266",
+        "references": [
+          "f127_chain",
+          "f127_chain_and_mass",
+          "f127_supplier",
+          "ertl"
+        ],
+        "status": "nominal_chain_estimate",
+        "reason": "Published representative composition consistent with nominal 12600 g/mol and ~70% PEO; actual commercial chain-length distribution is unknown.",
+        "ether_tpsa_a2": 9.23,
+        "hydroxyl_tpsa_a2": 20.23
+      },
+      "missing": {
+        "additive_logp": {
+          "references": [
+            "f127_supplier",
+            "f127_chain"
+          ],
+          "reason": "No verified whole-F127 logP with a comparable molecular definition was found. A small-oligomer proxy or an unvalidated long-chain XLogP extrapolation is not inserted."
+        }
+      },
+      "hlb": {
+        "value": 22.0,
+        "status": "literature_value",
+        "references": [
+          "surfactant_paper",
+          "f127_chain_and_mass"
+        ],
+        "locator": "Table 1, Pluronic (F127) row, HLB column (paper references 23 and 72); Methods: Preparation of surfactants and salt solutions",
+        "reason": "Adopt the literature HLB 22 reported for F127 by Bubli et al., also consistent with the manufacturer value recorded in the micelle study. This is not the old small-proxy Davies value 10.075 or a batch-exact polymer measurement."
+      },
+      "embedding_limitation": "Existing MoLFormer input remains the C7H16O4 oligomer proxy CC(COCCO)OCCO (CID 10154203), not this nominal full chain. It was not regenerated or silently reinterpreted; changing the embedding representation remains a separate unresolved modeling choice."
+    },
+    "SDS": {
+      "descriptor_cid": 4329331,
+      "formula_unit_cid": 3423265,
+      "class": "anionic",
+      "formula_unit_mass": 288.38,
+      "mass_reference": "https://pubchem.ncbi.nlm.nih.gov/compound/3423265",
+      "hlb": {
+        "value": 40,
+        "status": "davies_calculation",
+        "references": [
+          "davies"
+        ],
+        "groups": {
+          "sodium_sulfate_headgroup": 1,
+          "aliphatic_carbons": 12
+        },
+        "formula": "7 + 38.7 - 12*0.475"
+      }
+    },
+    "Span-85": {
+      "descriptor_cid": 9920343,
+      "class": "nonionic",
+      "formula_unit_mass": 957.5,
+      "mass_reference": "pubchem_additives",
+      "hlb": {
+        "value": 2.125,
+        "status": "davies_calculation_for_representative_structure",
+        "references": [
+          "davies",
+          "span_vendor"
+        ],
+        "groups": {
+          "sorbitan_esters": 3,
+          "sorbitan_hydroxyls": 1,
+          "ethers": 1,
+          "aliphatic_carbons": 57
+        },
+        "formula": "7 + 3*6.8 + 0.5 + 1.3 - 57*0.475",
+        "reason": "Nominal sorbitan trioleate with three sorbitan ester groups and 57 non-carbonyl carbons. Davies assigns the same lipophilic coefficient to CH and CH2; check against sorbitan tristearate 2.1 in Table II. Not a measurement of the commercial isomer/fatty-acid mixture."
+      }
+    },
+    "Urea": {
+      "descriptor_cid": 1176,
+      "class": "nonionic",
+      "formula_unit_mass": 60.06,
+      "mass_reference": "pubchem_additives",
+      "hlb": {
+        "value": null,
+        "status": "unsupported_group_parameters",
+        "references": [
+          "davies"
+        ],
+        "reason": "Urea is a small neutral chaotrope rather than a conventional amphiphile. No supported complete Davies group parameterization was established for its coupled urea functionality. Missing is not zero."
+      }
+    }
+  },
+  "hofmeister": {
+    "cation_ranks": {
+      "NH4+": 1,
+      "K+": 2,
+      "Na+": 3,
+      "Li+": 4,
+      "Mg2+": 5,
+      "Ca2+": 6
+    },
+    "anion_ranks": {
+      "SO4_2-": 1,
+      "HPO4_2-": 2,
+      "F-": 3,
+      "Cl-": 4,
+      "Br-": 5,
+      "NO3-": 6,
+      "I-": 7,
+      "SCN-": 8
+    },
+    "references": [
+      "ion_cations_and_phosphate",
+      "ion_iodide"
+    ],
+    "convention": "Preserve the existing selected-subseries indices; fill only the vacant iodide position. F- and Li+ specify the existing intermediate slots but are not dataset salts. Equal integer spacing is a modeling convention, not physical distance.",
+    "unresolved": {
+      "S2O3_2-": {
+        "references": [
+          "ion_thiosulfate",
+          "ion_iodide"
+        ],
+        "reason": "Thiosulfate is present in published qualitative rankings, but no unique position relative to HPO4_2- on this retained scale was established. Do not confuse H2PO4- (in the expanded hydrogel series) with HPO4_2- (in the workbook). Filling this requires choosing/documenting an extended rank convention; numeric zero or an arbitrary interpolated rank is not a sourced property."
+      }
+    }
+  },
+  "salts": {
+    "CaCl2": {
+      "cid": 5284359,
+      "formula": "CaCl2",
+      "pubchem_mass": 110.98,
+      "cation": "Ca2+",
+      "anion": "Cl-",
+      "cation_charge": 2,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 2,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "KCl": {
+      "cid": 4873,
+      "formula": "ClK",
+      "pubchem_mass": 74.55,
+      "cation": "K+",
+      "anion": "Cl-",
+      "cation_charge": 1,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "MgCl2": {
+      "cid": 5360315,
+      "formula": "Cl2Mg",
+      "pubchem_mass": 95.21,
+      "cation": "Mg2+",
+      "anion": "Cl-",
+      "cation_charge": 2,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 2,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "NH4Cl": {
+      "cid": 25517,
+      "formula": "ClH4N",
+      "pubchem_mass": 53.49,
+      "cation": "NH4+",
+      "anion": "Cl-",
+      "cation_charge": 1,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "Na2HPO4": {
+      "cid": 24203,
+      "formula": "HNa2O4P",
+      "pubchem_mass": 141.959,
+      "cation": "Na+",
+      "anion": "HPO4_2-",
+      "cation_charge": 1,
+      "anion_charge": -2,
+      "cation_stoich": 2,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "Na2S2O3": {
+      "cid": 24477,
+      "formula": "Na2O3S2",
+      "pubchem_mass": 158.11,
+      "cation": "Na+",
+      "anion": "S2O3_2-",
+      "cation_charge": 1,
+      "anion_charge": -2,
+      "cation_stoich": 2,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "Na2SO4": {
+      "cid": 24436,
+      "formula": "Na2O4S",
+      "pubchem_mass": 142.04,
+      "cation": "Na+",
+      "anion": "SO4_2-",
+      "cation_charge": 1,
+      "anion_charge": -2,
+      "cation_stoich": 2,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "NaBr": {
+      "cid": 253881,
+      "formula": "BrNa",
+      "pubchem_mass": 102.89,
+      "cation": "Na+",
+      "anion": "Br-",
+      "cation_charge": 1,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "NaCl": {
+      "cid": 5234,
+      "formula": "ClNa",
+      "pubchem_mass": 58.44,
+      "cation": "Na+",
+      "anion": "Cl-",
+      "cation_charge": 1,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "NaI": {
+      "cid": 5238,
+      "formula": "INa",
+      "pubchem_mass": 149.8942,
+      "cation": "Na+",
+      "anion": "I-",
+      "cation_charge": 1,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "NaNO3": {
+      "cid": 24268,
+      "formula": "NNaO3",
+      "pubchem_mass": 84.995,
+      "cation": "Na+",
+      "anion": "NO3-",
+      "cation_charge": 1,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    },
+    "NaSCN": {
+      "cid": 516871,
+      "formula": "CNNaS",
+      "pubchem_mass": 81.07,
+      "cation": "Na+",
+      "anion": "SCN-",
+      "cation_charge": 1,
+      "anion_charge": -1,
+      "cation_stoich": 1,
+      "anion_stoich": 1,
+      "references": [
+        "pubchem_salts",
+        "ion_cations_and_phosphate",
+        "ion_iodide"
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+domain_type,task,mean_k90,min_k90,max_k90
+additive,classification,44.666666666666664,17,59
+additive,regression,30.333333333333332,18,40
+salt,classification,53.0,30,76
+salt,regression,19.0,10,28
+additive,both_tasks,45.0,18,59
+salt,both_tasks,53.0,30,76

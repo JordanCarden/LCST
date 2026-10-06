@@ -1,0 +1,1256 @@
+source_workbook,source_sheet,polymer_name,polymer_mw_kda,polymer_functionalization_percent,polymer_concentration_mg_ml,buffer,heating_rate_c_per_min,additive_name,additive_concentration_mM,salt_name,salt_concentration_mM,transition_type,transition_temperature_c
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,24.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,23.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,24.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,80.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,40.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,80.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,38.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,80.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,38.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,46.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,46.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,48.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,32.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,28.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,29.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,2.5,PBS,,No additive,0.0,No salt,0.0,LCST,24.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,2.5,PBS,,No additive,0.0,No salt,0.0,LCST,27.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,2.5,PBS,,No additive,0.0,No salt,0.0,LCST,28.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,24.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,26.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,26.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,24.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,25.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,26.0
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,30.0,PBS,,No additive,0.0,No salt,0.0,LCST,23.4
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,30.0,PBS,,No additive,0.0,No salt,0.0,LCST,23.4
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,30.0,PBS,,No additive,0.0,No salt,0.0,LCST,21.5
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,50.0,PBS,,No additive,0.0,No salt,0.0,LCST,23.4
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,50.0,PBS,,No additive,0.0,No salt,0.0,LCST,24.1
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,50.0,PBS,,No additive,0.0,No salt,0.0,LCST,20.6
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,100.0,PBS,,No additive,0.0,No salt,0.0,LCST,24.8
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,100.0,PBS,,No additive,0.0,No salt,0.0,LCST,25.5
+lcst.xlsx,LCST for 86kDa Dex-MA,Dex-MA,86.0,88.0,100.0,PBS,,No additive,0.0,No salt,0.0,LCST,21.6
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2SO4,100.0,LCST,22.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2SO4,100.0,LCST,21.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2SO4,100.0,LCST,22.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2S2O3,100.0,LCST,24.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2S2O3,100.0,LCST,24.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2S2O3,100.0,LCST,28.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2HPO4,100.0,LCST,24.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2HPO4,100.0,LCST,26.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2HPO4,100.0,LCST,28.1
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,100.0,LCST,26.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,100.0,LCST,26.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaBr,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaBr,100.0,LCST,31.8
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaBr,100.0,LCST,29.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaNO3,100.0,LCST,30.7
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaNO3,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaNO3,100.0,LCST,34.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaI,100.0,LCST,37.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaI,100.0,LCST,35.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaI,100.0,LCST,33.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaI,100.0,LCST,35.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaSCN,100.0,LCST,40.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaSCN,100.0,LCST,34.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaSCN,100.0,LCST,38.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NH4Cl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NH4Cl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NH4Cl,100.0,LCST,28.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,MgCl2,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,MgCl2,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,MgCl2,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,CaCl2,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,CaCl2,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,CaCl2,100.0,LCST,32.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,KCl,100.0,LCST,32.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,KCl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,KCl,100.0,LCST,32.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,1000.0,LCST,13.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,1000.0,LCST,15.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,1000.0,LCST,15.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,500.0,LCST,20.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,500.0,LCST,20.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,500.0,LCST,20.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,250.0,LCST,26.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,250.0,LCST,28.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,250.0,LCST,28.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,NaCl,100.0,LCST,30.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2SO4,250.0,LCST,17.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2SO4,250.0,LCST,13.0
+lcst.xlsx,Hofmiester series,Dex-MA,86.0,88.0,10.0,PBS,,No additive,0.0,Na2SO4,250.0,LCST,15.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,NONE,
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,NONE,
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,NONE,
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,NONE,
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,NONE,
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,NONE,
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,NONE,
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,NONE,
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,58.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,58.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,67.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,65.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,53.9
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,57.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,57.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,53.5
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,59.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,61.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,63.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,56.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,52.8
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,55.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,56.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,52.5
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,54.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,48.5
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,51.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,48.5
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,51.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,47.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,48.9
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,47.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,47.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,86.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,48.4
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,LCST,43.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,LCST,42.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,LCST,40.5
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,36.1
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,38.4
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,38.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,33.9
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,36.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,35.9
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,34.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,33.5
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,29.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,31.5
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,27.2
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,250.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,LCST,35.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,LCST,36.8
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,0.1,PBS,,No additive,0.0,No salt,0.0,LCST,36.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,29.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,32.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,0.5,PBS,,No additive,0.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,28.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,28.9
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,1.0,PBS,,No additive,0.0,No salt,0.0,LCST,28.8
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,26.1
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,26.8
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,2.0,PBS,,No additive,0.0,No salt,0.0,LCST,26.9
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,24.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,25.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,5.0,PBS,,No additive,0.0,No salt,0.0,LCST,25.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,23.0
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,25.7
+lcst.xlsx,LCST for Diff Mw of Dextran,Dex-MA,500.0,70.0,10.0,PBS,,No additive,0.0,No salt,0.0,LCST,24.0
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,1000.0,No salt,0.0,LCST,47.0
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,1000.0,No salt,0.0,LCST,46.3
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,1000.0,No salt,0.0,LCST,53.2
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,2000.0,No salt,0.0,LCST,60.0
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,2000.0,No salt,0.0,LCST,58.8
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,2000.0,No salt,0.0,LCST,68.0
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,4000.0,No salt,0.0,NONE,
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,4000.0,No salt,0.0,NONE,
+lcst.xlsx,LCST of DexMA in Urea,Dex-MA,86.0,88.0,1.0,PBS,,Urea,4000.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,50.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,54.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,52.8
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,51.4
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,51.8
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,56.1
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,43.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,33.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,37.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,33.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,47.7
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,48.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,47.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,47.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,46.6
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,52.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,54.8
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,40.8
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,41.9
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,41.3
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,42.8
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,46.4
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,47.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,32.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,34.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,32.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,29.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,36.3
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,38.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,29.1
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,37.2
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,40.5
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,35.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,22.8
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,29.2
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,32.5
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,32.5
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,43.5
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,38.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,33.1
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,250.0,70.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,38.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,34.2
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,0.1,No salt,0.0,LCST,33.8
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,34.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,32.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,1.0,No salt,0.0,LCST,32.0
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,1.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,27.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,27.4
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,0.1,No salt,0.0,LCST,27.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,24.8
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,24.2
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,1.0,No salt,0.0,LCST,24.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,14.8
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,15.2
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,10.0,No salt,0.0,LCST,14.5
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CTAB,Dex-MA,86.0,88.0,10.0,PBS,,CTAB,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,54.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,53.5
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,60.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,59.3
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,55.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,66.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,56.6
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,60.5
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,57.2
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,47.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,45.8
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,51.8
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,47.5
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,47.8
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,48.7
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,37.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,52.5
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,45.2
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,44.3
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,40.3
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,45.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,43.8
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,44.1
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,44.2
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,47.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,49.4
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,70.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,39.2
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,35.4
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,33.8
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,28.3
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,36.0
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,51.1
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,43.0
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,48.9
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,43.0
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,29.2
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,28.5
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,30.2
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,20.7
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,25.3
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,25.0
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,31.4
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,28.2
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,28.1
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,26.0
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,26.0
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,26.6
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,25.3
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,28.0
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,28.0
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,30.8
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,250.0,70.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,37.5
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,37.8
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,0.1,No salt,0.0,LCST,37.0
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,52.8
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,51.2
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,1.0,No salt,0.0,LCST,51.5
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,1.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,29.5
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,27.8
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,0.1,No salt,0.0,LCST,28.8
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,29.2
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,27.5
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,1.0,No salt,0.0,LCST,28.6
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with SDS,Dex-MA,86.0,88.0,10.0,PBS,,SDS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,52.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,57.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,58.3
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,57.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,56.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,63.3
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,60.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,55.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,60.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,55.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,59.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,61.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,59.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,45.7
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,51.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,54.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,58.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,60.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,46.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,49.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,52.4
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,51.1
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,49.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,51.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,57.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,49.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,58.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,53.4
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,58.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,52.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,49.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,52.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,49.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,34.9
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,34.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,35.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,35.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,34.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,34.9
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,34.4
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,33.3
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,34.6
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,35.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,34.9
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,33.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,36.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,34.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,39.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,37.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,42.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,43.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,45.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,42.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,47.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,44.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,45.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,55.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,29.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,31.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,30.1
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,30.6
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,28.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,31.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,31.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,30.1
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,30.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,30.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,29.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,30.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,29.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,36.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,36.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,37.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,36.9
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,39.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,40.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,41.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,57.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,59.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,250.0,70.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,LCST,54.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,37.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,38.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,37.6
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,37.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,38.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,37.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,40.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,40.4
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,40.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,54.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,55.0
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,1.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,28.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,28.6
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,0.1,No salt,0.0,LCST,28.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,28.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,28.6
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,1.0,No salt,0.0,LCST,28.6
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,28.2
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,29.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,10.0,No salt,0.0,LCST,29.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,39.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,43.5
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,50.0,No salt,0.0,LCST,40.8
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with CHAPS,Dex-MA,86.0,88.0,10.0,PBS,,CHAPS,100.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,57.5
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,60.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,66.2
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,65.2
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,49.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,53.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,56.2
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,55.8
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,70.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,33.8
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,32.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,36.5
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,39.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,26.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,22.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,30.8
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,30.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,32.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,29.8
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,23.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,21.8
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,31.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,31.5
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,250.0,70.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,40.5
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,39.8
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,0.01,No salt,0.0,LCST,40.2
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,0.1,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,1.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,1.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,30.2
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,27.3
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,0.1,No salt,0.0,LCST,27.6
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,LCST,42.8
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,LCST,41.8
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,1.0,No salt,0.0,LCST,41.0
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST with Pluronic,Dex-MA,86.0,88.0,10.0,PBS,,Pluronic F127,10.0,No salt,0.0,NONE,
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,18.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,18.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,19.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,18.9
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,18.9
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,19.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,19.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,19.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,19.8
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,21.3
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,21.3
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,20.2
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,22.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,22.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,21.2
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,24.9
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,24.9
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,22.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,33.9
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,33.9
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,0.5,No additive,0.0,No salt,0.0,LCST,25.2
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,31.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,31.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,34.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,33.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,37.3
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,37.2
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,29.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,37.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,34.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,25.8
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,42.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,34.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,17.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,25.8
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,24.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,26.9
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,28.3
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,25.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,27.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,28.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,26.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,27.4
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,30.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,29.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,28.3
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,35.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,34.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,29.8
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,39.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,39.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,37.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,45.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,42.9
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,3.0,No additive,0.0,No salt,0.0,LCST,46.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,30.8
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,29.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,28.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,30.8
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,30.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,29.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,31.8
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,29.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,30.2
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,37.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,29.7
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,30.8
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,45.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,38.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,33.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,50.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,53.2
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,37.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,53.5
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,27.6
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,5.0,No additive,0.0,No salt,0.0,LCST,47.1
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,21.03105261
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,20.93270982
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,20.57873054
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,21.93894451
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,21.029949
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,22.363379
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,20.797367
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,21.694615
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,22.696703
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,20.461409
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,20.808266
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,21.962991
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,24.290126
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,23.420798
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,21.760817
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,22.951208
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,26.435167
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,26.795773
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,25.627289
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,23.849341
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,30.528192
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,30.282934
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,28.090345
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,5.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,28.332863
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,42.578906
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,37.571169
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,28.71782
+lcst.xlsx,LCST - Different HeatingRate,Dex-MA,86.0,88.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,37.179982
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,25.0,LCST,21.807324911842162
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,25.0,LCST,22.23745654420746
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,25.0,LCST,23.13628097885385
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,25.0,LCST,22.894132914418403
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,25.0,LCST,26.91717819940476
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,25.0,LCST,33.42460108714713
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,25.0,LCST,38.099949520444206
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,25.0,LCST,22.639524948735474
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,25.0,LCST,21.737087135776164
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,25.0,LCST,21.802735690235696
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,25.0,LCST,23.08164442247487
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,25.0,LCST,31.88280717692481
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,25.0,LCST,25.341389728096704
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,25.0,LCST,38.064428312159706
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,25.0,LCST,22.938204165244116
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,25.0,LCST,23.545445973976992
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,25.0,LCST,23.72714285714285
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,25.0,LCST,24.48796565332408
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,25.0,LCST,28.9888596161084
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,25.0,LCST,24.276008322663273
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,25.0,LCST,25.621757925072043
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,25.0,LCST,19.757991603101033
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,25.0,LCST,19.799335604951988
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,25.0,LCST,19.8642300484505
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,25.0,LCST,21.807666886979508
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,25.0,LCST,20.34015934680977
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,25.0,LCST,19.61147946739896
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,25.0,LCST,19.29594048264077
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,50.0,LCST,17.63978529476591
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,50.0,LCST,17.942906813950984
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,50.0,LCST,17.53504585613688
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,50.0,LCST,17.69285771874307
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,50.0,LCST,18.841272928864598
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,50.0,LCST,18.710504861404672
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,50.0,LCST,19.156849469645675
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,50.0,LCST,18.47514661801121
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,50.0,LCST,17.429130326782953
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,50.0,LCST,17.08481240170748
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,50.0,LCST,18.652331457373045
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,50.0,LCST,20.841773231031546
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,50.0,LCST,22.416797290488716
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,50.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,50.0,LCST,19.4260213361759
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,50.0,LCST,19.988104323901595
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,50.0,LCST,20.06873766291946
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,50.0,LCST,21.68376402299492
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,50.0,LCST,24.729081707856334
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,50.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,50.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,50.0,LCST,20.25531210534705
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,50.0,LCST,21.68815311601791
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,50.0,LCST,22.509091785460374
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,50.0,LCST,22.79641763456286
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,50.0,LCST,25.111485927836757
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,50.0,LCST,23.02790983606557
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,50.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,75.0,LCST,20.07363096193994
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,75.0,LCST,18.962865599966882
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,75.0,LCST,20.323998832173615
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,75.0,LCST,20.477273475118185
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,75.0,LCST,27.232861790507176
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,75.0,LCST,25.53197274846112
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,75.0,UCST,31.54391571682018
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,75.0,LCST,18.3587004937593
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,75.0,LCST,18.17461152257127
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,75.0,LCST,18.835648939516187
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,75.0,LCST,18.922541379187074
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,75.0,LCST,20.01037424443778
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,75.0,LCST,24.720403527525388
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,75.0,UCST,29.471219249899182
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,75.0,LCST,17.688315715672527
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,75.0,LCST,17.709915564937226
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,75.0,LCST,17.98233146632374
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,75.0,LCST,19.04586618565903
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,75.0,LCST,21.07138856576623
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,75.0,LCST,22.409589508580343
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,75.0,UCST,31.387554511908757
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,75.0,LCST,18.737180031413168
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,75.0,LCST,19.077148173714697
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,75.0,LCST,19.51526486049333
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,75.0,LCST,19.800298547666614
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,75.0,LCST,20.74492947596005
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,75.0,LCST,25.060751831793567
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,75.0,UCST,33.204037688573365
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,100.0,LCST,19.070272805440478
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,100.0,LCST,20.213621247271522
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,100.0,LCST,20.01949839151674
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,100.0,LCST,21.11837829123215
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,100.0,LCST,21.410126043026885
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,100.0,LCST,21.705567579967884
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,100.0,UCST,34.027172604718345
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,100.0,LCST,18.502417566697662
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,100.0,LCST,19.30862755421013
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,100.0,LCST,18.792877272366436
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,100.0,LCST,19.814878564136652
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,100.0,LCST,21.483182915311154
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,100.0,LCST,24.36236589497459
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,100.0,UCST,33.14055617578403
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,100.0,LCST,15.980655428091774
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,100.0,LCST,15.717032260754163
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,100.0,LCST,15.574584924120378
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,100.0,LCST,16.592638262504597
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,100.0,LCST,16.415718717683554
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,100.0,LCST,16.744942751582112
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,100.0,UCST,32.08356218723301
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,100.0,LCST,20.430192929194007
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,100.0,LCST,20.37484465617233
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,100.0,LCST,21.460187550888627
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,100.0,LCST,19.905813731114943
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,100.0,LCST,20.08774621095906
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,100.0,LCST,22.050853804673448
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,100.0,UCST,31.92832386744779
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,200.0,LCST,21.995624763585926
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,200.0,LCST,22.233135383999475
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,200.0,LCST,22.958258620689655
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,200.0,LCST,22.830901580323655
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,200.0,LCST,24.64662446378743
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,200.0,LCST,24.765795766622453
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,200.0,UCST,35.53312992763797
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,200.0,LCST,20.527709281338183
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,200.0,LCST,21.111075288626875
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,200.0,LCST,20.843976583858314
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,200.0,LCST,22.24654020302344
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,200.0,LCST,23.37033454601451
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,200.0,LCST,23.57257056318416
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,200.0,UCST,36.04732761008031
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,NaCl,200.0,LCST,19.50817732618832
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,NaCl,200.0,LCST,20.75440919592044
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,NaCl,200.0,LCST,20.53783328981345
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,200.0,LCST,20.884887304368842
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,200.0,LCST,22.653238345769076
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,NaCl,200.0,LCST,22.727163089863318
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,NaCl,200.0,UCST,34.93114973262032
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,No salt,0.0,LCST,19.41175715804524
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,No salt,0.0,LCST,20.344239097285758
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,No salt,0.0,LCST,23.361165387299373
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,No salt,0.0,LCST,21.11002526259806
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,No salt,0.0,LCST,25.92452596356426
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,No salt,0.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,No salt,0.0,LCST,17.944768849235754
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,No salt,0.0,LCST,17.79811559596076
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,No salt,0.0,LCST,17.40230467997689
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,No salt,0.0,LCST,17.907822513139298
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,No salt,0.0,LCST,20.98485934420355
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,No salt,0.0,LCST,22.06537145650049
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,No salt,0.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,No salt,0.0,LCST,19.46750461749182
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,No salt,0.0,LCST,19.306149373130314
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,No salt,0.0,LCST,19.511743087299546
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,No salt,0.0,LCST,20.154798659922484
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,No salt,0.0,LCST,22.152172586354204
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,No salt,0.0,LCST,25.33304439586945
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,No salt,0.0,LCST,24.313895947572554
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.01,No salt,0.0,LCST,19.022419650876714
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.1,No salt,0.0,LCST,19.243265509281112
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.5,No salt,0.0,LCST,19.525002944187268
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,No salt,0.0,LCST,20.28950171904508
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,No salt,0.0,LCST,23.12469278842778
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,10.0,No salt,0.0,LCST,24.53218642979452
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,50.0,No salt,0.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,1.0,LCST,18.51335771340583
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,1.0,LCST,18.620488317355772
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,1.0,LCST,21.977140812077042
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,1.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,1.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,1.0,UCST,18.842478831147268
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,1.0,UCST,17.597381493846875
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,1.0,LCST,18.083311080291846
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,1.0,LCST,18.585106702434334
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,1.0,LCST,21.007521903511353
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,1.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,1.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,1.0,UCST,15.6
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,1.0,UCST,11.027324686250568
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,5.0,LCST,18.90835146264714
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,5.0,LCST,19.299739978601107
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,5.0,LCST,19.55200865308613
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,5.0,LCST,37.015389250959736
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,5.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,5.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,5.0,UCST,12.265738538416217
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,5.0,LCST,19.971308334740424
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,5.0,LCST,19.876824803056
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,5.0,LCST,24.984184990837914
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,5.0,LCST,46.224469954316504
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,5.0,LCST,13.430087556381004
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,5.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,5.0,UCST,12.198603696098562
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,10.0,LCST,18.043023965429086
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,10.0,LCST,18.381709596652488
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,10.0,LCST,19.558044806517312
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,10.0,LCST,30.841184003456043
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,10.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,10.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,10.0,UCST,12.412100675189931
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,10.0,LCST,18.682846421463623
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,10.0,LCST,17.945726585284923
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,10.0,LCST,19.606528677591466
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,10.0,LCST,26.268962778188104
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,10.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,10.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,10.0,UCST,13.409056994818654
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,25.0,LCST,18.214732493191157
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,25.0,LCST,18.6
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,25.0,LCST,18.52340217799474
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,25.0,LCST,21.61757765574052
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,25.0,LCST,27.351836370729533
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,25.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,25.0,UCST,17.326883496723177
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,25.0,LCST,18.472660341478793
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,25.0,LCST,19.968908112939523
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,25.0,LCST,21.219566108704566
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,25.0,LCST,21.95674203902052
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,25.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,25.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,25.0,UCST,17.980781057461666
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,0.05,NaCl,25.0,LCST,23.81822001848895
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,25.0,LCST,24.720181536944807
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,1.0,NaCl,25.0,LCST,23.774435753188246
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,2.5,NaCl,25.0,LCST,25.222712556306305
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,2.5,NaCl,25.0,LCST,24.833749031383185
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,25.0,LCST,25.864794183372737
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CTAB,5.0,NaCl,25.0,LCST,26.44410248894751
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,50.0,LCST,19.475094739546535
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,50.0,LCST,20.740989183629644
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,50.0,LCST,20.1040524966484
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,50.0,LCST,21.61853303162426
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,50.0,UCST,33.556735525167305
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,50.0,UCST,10.991743057033723
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,50.0,UCST,12.45734376642408
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,No salt,0.0,LCST,18.307982633951532
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,No salt,0.0,LCST,17.6962087377251
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,No salt,0.0,LCST,24.45754170819867
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,No salt,0.0,LCST,31.954935512705912
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,No salt,0.0,UCST,26.09306448249057
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,No salt,0.0,UCST,11.875389231315442
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,No salt,0.0,UCST,14.720897263706526
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,No salt,0.0,LCST,18.389065310911224
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,No salt,0.0,LCST,18.819161660119054
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,No salt,0.0,LCST,22.671553149045312
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,No salt,0.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,No salt,0.0,LCST,18.666360294117645
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,No salt,0.0,UCST,18.026921834625323
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,No salt,0.0,UCST,19.369701946064303
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,0.1,LCST,17.844023553693923
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,0.1,LCST,18.758085079638708
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,0.1,LCST,18.087600589955237
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,0.1,LCST,25.505985552926752
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,0.1,LCST,38.19070362627063
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,0.1,LCST,17.368672720247297
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,0.1,LCST,17.367222728884837
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,0.1,LCST,17.583484555138057
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,0.1,LCST,27.4464277882549
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,0.1,LCST,41.01463636757882
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,1.0,LCST,18.646132594379388
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,1.0,LCST,17.46469895306205
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,1.0,LCST,18.335330348220463
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,1.0,LCST,26.466762277607657
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,1.0,LCST,35.906435014105774
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,1.0,LCST,16.775010775617613
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,1.0,LCST,17.334082312848743
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,1.0,LCST,17.564190759151334
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,1.0,LCST,28.312399100553506
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,1.0,LCST,39.58737185461324
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,5.0,LCST,17.74142532779983
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,5.0,LCST,18.543067921648436
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,5.0,LCST,18.046468299632856
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,5.0,LCST,26.46650672577013
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,5.0,LCST,37.19443284257422
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,5.0,LCST,17.076840174578948
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,5.0,LCST,17.41926238874374
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,5.0,LCST,17.658804632420754
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,5.0,LCST,26.7683702914553
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,5.0,LCST,38.707425848680195
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,10.0,LCST,17.48215651433862
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,10.0,LCST,17.75786458725906
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,10.0,LCST,17.867057020904017
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,10.0,LCST,27.990075597434704
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,10.0,LCST,40.46247432286483
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,10.0,LCST,19.52312706873242
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,10.0,LCST,19.702295490428263
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,10.0,LCST,20.79238439501801
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,10.0,LCST,32.31202661359789
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,10.0,LCST,51.31386451744542
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,50.0,LCST,16.45953601380413
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,50.0,LCST,17.047723573418473
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,50.0,LCST,17.27452890337206
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,50.0,LCST,27.244059283869547
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,50.0,LCST,36.119930190582366
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,0.1,NaCl,50.0,LCST,16.167038973528676
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,1.0,NaCl,50.0,LCST,16.416566303583227
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,10.0,NaCl,50.0,LCST,16.877959646120097
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,50.0,NaCl,50.0,LCST,30.767779004943726
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,CHAPS,100.0,NaCl,50.0,LCST,49.34539418879744
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,0.1,LCST,19.777437872514323
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,1.0,LCST,19.796790734848145
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,5.0,LCST,19.470059768319885
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,10.0,LCST,17.071301323379707
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,20.0,LCST,19.475021347486855
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,50.0,LCST,18.655844898506487
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,100.0,LCST,17.226925572688355
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,0.1,LCST,17.014742261148626
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,1.0,LCST,19.32678408013634
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,5.0,LCST,19.398681962297882
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,10.0,LCST,19.368265925128803
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,20.0,LCST,19.557957101894477
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,50.0,LCST,18.440834076114847
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,NaCl,100.0,LCST,17.167212680601466
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Span-85,0.1,No salt,0.0,LCST,19.510687437209143
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Span-85,1.0,No salt,0.0,LCST,20.05593116415958
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Span-85,10.0,No salt,0.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Span-85,50.0,No salt,0.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Span-85,0.1,No salt,0.0,LCST,19.823183566814254
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Span-85,1.0,No salt,0.0,LCST,20.489500978387724
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Span-85,10.0,No salt,0.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Span-85,50.0,No salt,0.0,NONE,
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,0.1,NaCl,10.0,LCST,21.544779187592507
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,0.5,NaCl,10.0,LCST,19.875844463354174
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,1.0,NaCl,10.0,LCST,18.134192248113663
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,3.0,NaCl,10.0,UCST,28.237106659552076
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,5.0,NaCl,10.0,UCST,26.21927856704808
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,0.1,NaCl,10.0,LCST,19.570864648142674
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,0.5,NaCl,10.0,LCST,19.02450353497575
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,1.0,NaCl,10.0,LCST,17.994497521127755
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,3.0,NaCl,10.0,UCST,27.15348891854387
+Surfactant and Salt - 07-07-26.xlsx,Transition Results,Dex-MA,86.0,88.0,10.0,PBS,1.0,Pluronic F127,5.0,NaCl,10.0,UCST,24.321328037832803
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,0.1,NaCl,5.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,1.0,NaCl,5.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,5.0,NaCl,5.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,10.0,NaCl,5.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,20.0,NaCl,5.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,50.0,NaCl,5.0,UCST,21.92276749533831
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,100.0,NaCl,5.0,UCST,22.553911741802416
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,5.0,LCST,16.29
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,5.0,LCST,16.42
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,5.0,LCST,18.49718400822228
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,5.0,LCST,26.129264505199757
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,5.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,5.0,UCST,15.32335450055438
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,5.0,UCST,7.570764625564541
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,0.1,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,1.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,5.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,10.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,20.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,50.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,100.0,NaCl,10.0,UCST,22.892015672682167
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,10.0,LCST,11.660901202284416
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,10.0,LCST,11.432470587632983
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,10.0,LCST,21.483658897172155
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,10.0,LCST,18.54832464927865
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,10.0,LCST,20.232147734381194
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,10.0,LCST,15.23
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,10.0,LCST,15.98
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,10.0,LCST,21.55
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,10.0,LCST,37.933093172915505
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,10.0,LCST,43.51
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,10.0,LCST,20.341391713856467
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,10.0,LCST,19.73017630491092
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,10.0,LCST,19.94377991552528
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,10.0,LCST,25.465190563744585
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,10.0,LCST,21.0
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,10.0,LCST,21.082825756616437
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,10.0,LCST,21.26057917116723
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,10.0,LCST,21.64831544811677
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,10.0,LCST,31.25609782444315
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,10.0,LCST,35.52
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,0.1,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,1.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,5.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,10.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,20.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,50.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,100.0,NaCl,20.0,UCST,23.023800119811824
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,20.0,LCST,13.66842419419021
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,20.0,LCST,13.7
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,20.0,LCST,18.537885327615495
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,20.0,LCST,23.96477527080236
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,20.0,LCST,13.835508327562698
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,20.0,LCST,15.31
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,20.0,LCST,18.945570770185235
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,20.0,LCST,36.381967925476296
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,20.0,UCST,12.539975324813794
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,20.0,UCST,9.420883780268161
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,20.0,UCST,23.461030406313725
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,20.0,LCST,16.010464407155528
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,20.0,LCST,38.50420610929918
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,20.0,UCST,8.0897509826334
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,20.0,LCST,18.41
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,20.0,LCST,20.93408651876134
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,0.1,NaCl,20.0,LCST,21.267865623842617
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,NaCl,20.0,LCST,20.79486447422423
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,NaCl,20.0,LCST,20.79668566188511
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,NaCl,20.0,LCST,20.94654313795501
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,NaCl,20.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,NaCl,20.0,UCST,17.743439738861333
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,No additive,0.0,Na2SO4,50.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,1.0,Na2SO4,50.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,5.0,Na2SO4,50.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,10.0,Na2SO4,50.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,20.0,Na2SO4,50.0,UCST,16.28288445410186
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,50.0,Na2SO4,50.0,UCST,25.853174931032328
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,100.0,Na2SO4,50.0,UCST,26.528582788296042
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,Na2SO4,50.0,LCST,16.76412733431844
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,Na2SO4,50.0,LCST,16.38041018245909
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,Na2SO4,50.0,LCST,17.613667979002624
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,Na2SO4,50.0,LCST,28.124148324908163
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,Na2SO4,50.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,Na2SO4,50.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,Na2SO4,50.0,UCST,18.248906317211738
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,Na2SO4,50.0,LCST,15.156426899916381
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,Na2SO4,50.0,LCST,15.302097060677248
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,Na2SO4,50.0,LCST,16.991177077157072
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,Na2SO4,50.0,LCST,17.5
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,Na2SO4,50.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,Na2SO4,50.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,Na2SO4,50.0,UCST,20.288310968572826
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,No additive,0.0,Na2SO4,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,1.0,Na2SO4,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,5.0,Na2SO4,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,10.0,Na2SO4,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,20.0,Na2SO4,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,50.0,Na2SO4,10.0,UCST,22.153851763840734
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,PBS,1.0,SDS,100.0,Na2SO4,10.0,UCST,22.666521746979253
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,Na2SO4,10.0,LCST,23.29969168132498
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,1.0,Na2SO4,10.0,LCST,21.379279877573413
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,5.0,Na2SO4,10.0,LCST,26.8264900538088
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,10.0,Na2SO4,10.0,LCST,53.139105102644635
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,20.0,Na2SO4,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,50.0,Na2SO4,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,PBS,1.0,SDS,100.0,Na2SO4,10.0,UCST,20.016622858255452
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,DI Water,1.0,No additive,0.0,NaCl,10.0,LCST,12.603677797833935
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,DI Water,1.0,SDS,1.0,NaCl,10.0,LCST,13.2580424366872
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,DI Water,1.0,SDS,5.0,NaCl,10.0,LCST,44.69153143651574
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,DI Water,1.0,SDS,10.0,NaCl,10.0,LCST,44.736483842399025
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,DI Water,1.0,SDS,20.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,DI Water,1.0,SDS,50.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,No polymer,,,0.0,DI Water,1.0,SDS,100.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,No additive,0.0,NaCl,10.0,LCST,28.609293557420933
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,1.0,NaCl,10.0,LCST,36.77491662556227
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,5.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,10.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,20.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,50.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,100.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,No additive,0.0,NaCl,10.0,LCST,28.213656775306987
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,1.0,NaCl,10.0,LCST,37.49117643239593
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,5.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,10.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,20.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,50.0,NaCl,10.0,NONE,
+Salt + Surfactant - 07-28-26.xlsx,Transition Results - 07-28-26,Dex-MA,86.0,88.0,10.0,DI Water,1.0,SDS,100.0,NaCl,10.0,NONE,
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,2.0,PBS,1.0,CHAPS,100.0,NH4Cl,10.0,LCST,50.91
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,2.0,PBS,1.0,CHAPS,100.0,NH4Cl,10.0,LCST,53.52
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,0.1,PBS,1.0,CTAB,50.0,NH4Cl,100.0,LCST,53.93
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,0.1,PBS,1.0,CTAB,50.0,NH4Cl,100.0,LCST,53.6
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,10.0,PBS,1.0,Pluronic F127,3.0,NH4Cl,75.0,LCST,57.56
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,10.0,PBS,1.0,Pluronic F127,3.0,NH4Cl,75.0,LCST,58.47
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,0.1,PBS,1.0,SDS,100.0,NH4Cl,75.0,LCST,20.01
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,0.1,PBS,1.0,SDS,100.0,NH4Cl,75.0,LCST,16.59
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,0.1,PBS,1.0,Span-85,10.0,NH4Cl,1.0,NONE,
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,0.1,PBS,1.0,Span-85,10.0,NH4Cl,1.0,NONE,
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,2.0,PBS,1.0,Urea,1000.0,NH4Cl,10.0,NONE,
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,2.0,PBS,1.0,Urea,1000.0,NH4Cl,10.0,NONE,
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,2.0,PBS,1.0,CHAPS,50.0,Na2SO4,5.0,UCST,60.14
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,2.0,PBS,1.0,CHAPS,50.0,Na2SO4,5.0,UCST,60.42
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,100.0,PBS,1.0,CTAB,50.0,Na2SO4,100.0,LCST,19.83
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,100.0,PBS,1.0,CTAB,50.0,Na2SO4,100.0,LCST,23.25
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,0.1,PBS,1.0,Pluronic F127,0.01,Na2SO4,20.0,LCST,25.01
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,0.1,PBS,1.0,Pluronic F127,0.01,Na2SO4,20.0,LCST,25.65
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,100.0,PBS,1.0,SDS,100.0,Na2SO4,75.0,LCST,26.7
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,100.0,PBS,1.0,SDS,100.0,Na2SO4,75.0,LCST,27.4
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,10.0,PBS,1.0,Span-85,10.0,Na2SO4,1.0,LCST,44.39
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,10.0,PBS,1.0,Span-85,10.0,Na2SO4,1.0,LCST,33.8
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,20.0,60.0,100.0,PBS,1.0,Urea,1000.0,Na2SO4,75.0,LCST,45.58
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,Dex-MA,40.0,60.0,100.0,PBS,1.0,Urea,1000.0,Na2SO4,75.0,LCST,49.31
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,No polymer,,,0.0,PBS,1.0,SDS,100.0,NH4Cl,75.0,UCST,27.03
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,No polymer,,,0.0,PBS,1.0,SDS,100.0,Na2SO4,75.0,UCST,26.7
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,No polymer,,,0.0,PBS,1.0,Span-85,10.0,NH4Cl,1.0,NONE,
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,No polymer,,,0.0,PBS,1.0,Span-85,10.0,Na2SO4,1.0,NONE,
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,No polymer,,,0.0,PBS,1.0,CTAB,50.0,Na2SO4,100.0,NONE,
+Initial Experimental Candidate Set - 08-14-26.xlsx,Conditions,No polymer,,,0.0,PBS,1.0,CTAB,50.0,NH4Cl,100.0,NONE,
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,1.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,36.75175805
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,5.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,28.89733234
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,10.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,27.81127071
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,20.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,27.10263382
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,30.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,26.95803742
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,40.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,26.91987706
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,50.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,26.95619594
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,28.98221835
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,5.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,20.66444443
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,23.88676508
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,21.50554916
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,19.55288643
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,18.80335532
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,86.0,88.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,18.68709006
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,0.01,PBS,1.0,No additive,0.0,No salt,0.0,NONE,
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,48.81121276
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,45.14795779
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,42.18644813
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,41.61341375
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,41.88755593
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,42.67373707
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,0.01,DI Water,1.0,No additive,0.0,No salt,0.0,NONE,
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,1.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,66.54418461
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,10.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,60.95474403
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,20.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,55.03445743
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,30.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,53.12062126
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,40.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,53.30596246
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,20.0,60.0,50.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,54.74205843
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,0.01,PBS,1.0,No additive,0.0,No salt,0.0,NONE,
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,1.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,39.84886726
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,10.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,38.10495987
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,20.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,37.18985012
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,30.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,36.83782226
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,40.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,37.46951494
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,50.0,PBS,1.0,No additive,0.0,No salt,0.0,LCST,37.86439551
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,0.01,DI Water,1.0,No additive,0.0,No salt,0.0,NONE,
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,1.0,DI Water,1.0,No additive,0.0,No salt,0.0,NONE,
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,10.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,66.41521236
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,20.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,62.94215051
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,30.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,62.13444418
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,40.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,60.55712821
+DexMA PBS and DI Water - 08-23-26.xlsx,Conditions,Dex-MA,40.0,60.0,50.0,DI Water,1.0,No additive,0.0,No salt,0.0,LCST,61.4069001

@@ -1,0 +1,432 @@
+{
+  "analysis": "exact_cross_fitted_refitting_based_four_block_shapley",
+  "master_path": "/home/admin/Code/LCST/data/processed/lcst_master_observed.csv",
+  "master_sha256": "15917dd73f301d9ee74477d3e8b167f58112fb53e9a74ed83601036d92b46f9f",
+  "reference_predictions": "/home/admin/Code/LCST/outputs/report_evaluation/predictions_long.csv",
+  "reference_predictions_sha256": "fa0d292348aaa69af88738e53e7bb9f0b5737ff2b80ec9071d526f2d05595c6f",
+  "reference_manifest_sha256": "1c89869497649f0b3277b7d50b1addafc625f019b273e211b38523f0ab8203b1",
+  "regression_conditions": 272,
+  "classification_conditions": 403,
+  "dexma_only_classification_conditions": 355,
+  "condition_id_sha256": {
+    "regression": "86db8b4d58e00acad50fbf5d25a20a96bc206a08fcfaf2bb7c96bb02b6a2f7ba",
+    "classification": "cfe69d657c7bf6f2b9f7425e7a91ea30dc6960577cae118f4ed12ecba799f5f9"
+  },
+  "target_sha256": {
+    "regression": "71325d38ce5f8b7b4366d7db79d0c06e0b2ce0db03dab07ac0fe84eb2a51e40d",
+    "classification": "571a0974207ab0d6822ebfc2526984bd870b20db73fba43ecce9b82334c792c1"
+  },
+  "static_seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "folds_per_seed": 10,
+  "bootstrap_resamples": 2000,
+  "bootstrap_seed": 20260909,
+  "primary_aggregation": "average five out-of-fold predictions per condition before loss calculation",
+  "losses": {
+    "regression": "mean absolute error in degrees Celsius",
+    "classification": "natural-log soft-target cross-entropy in nats"
+  },
+  "null_models": {
+    "regression": "training-fold median LCST",
+    "classification": "training-fold mean soft class distribution"
+  },
+  "group_order": [
+    "polymer",
+    "additive",
+    "salt",
+    "buffer"
+  ],
+  "feature_groups": {
+    "descriptor24": {
+      "polymer": [
+        "dex_f_percent",
+        "dex_mw_kda",
+        "dex_conc_log1p_mg_ml"
+      ],
+      "additive": [
+        "additive_conc_log1p_mM",
+        "additive_mw_g_mol",
+        "additive_logp",
+        "additive_tpsa_a2",
+        "additive_hbd",
+        "additive_hba",
+        "additive_formal_charge",
+        "additive_carbons",
+        "additive_hlb",
+        "additive_class_anionic",
+        "additive_class_cationic",
+        "additive_class_zwitterionic",
+        "additive_class_nonionic"
+      ],
+      "salt": [
+        "salt_conc_log1p_mM",
+        "cation_charge",
+        "anion_charge",
+        "cation_hofmeister_index",
+        "anion_hofmeister_index",
+        "ionic_strength_m",
+        "hofmeister_delta"
+      ],
+      "buffer": [
+        "buffer_di_water"
+      ]
+    },
+    "two_slot38": {
+      "polymer": [
+        "dex_f_percent",
+        "dex_mw_kda",
+        "dex_conc_log1p_mg_ml"
+      ],
+      "additive": [
+        "slot1_additive_conc_log1p_mM",
+        "slot1_molformer_pca16_00",
+        "slot1_molformer_pca16_01",
+        "slot1_molformer_pca16_02",
+        "slot1_molformer_pca16_03",
+        "slot1_molformer_pca16_04",
+        "slot1_molformer_pca16_05",
+        "slot1_molformer_pca16_06",
+        "slot1_molformer_pca16_07",
+        "slot1_molformer_pca16_08",
+        "slot1_molformer_pca16_09",
+        "slot1_molformer_pca16_10",
+        "slot1_molformer_pca16_11",
+        "slot1_molformer_pca16_12",
+        "slot1_molformer_pca16_13",
+        "slot1_molformer_pca16_14",
+        "slot1_molformer_pca16_15"
+      ],
+      "salt": [
+        "slot2_salt_conc_log1p_mM",
+        "slot2_molformer_pca16_00",
+        "slot2_molformer_pca16_01",
+        "slot2_molformer_pca16_02",
+        "slot2_molformer_pca16_03",
+        "slot2_molformer_pca16_04",
+        "slot2_molformer_pca16_05",
+        "slot2_molformer_pca16_06",
+        "slot2_molformer_pca16_07",
+        "slot2_molformer_pca16_08",
+        "slot2_molformer_pca16_09",
+        "slot2_molformer_pca16_10",
+        "slot2_molformer_pca16_11",
+        "slot2_molformer_pca16_12",
+        "slot2_molformer_pca16_13",
+        "slot2_molformer_pca16_14",
+        "slot2_molformer_pca16_15"
+      ],
+      "buffer": [
+        "buffer_di_water"
+      ]
+    }
+  },
+  "coalitions": [
+    {
+      "coalition_id": "empty",
+      "groups": []
+    },
+    {
+      "coalition_id": "polymer",
+      "groups": [
+        "polymer"
+      ]
+    },
+    {
+      "coalition_id": "additive",
+      "groups": [
+        "additive"
+      ]
+    },
+    {
+      "coalition_id": "salt",
+      "groups": [
+        "salt"
+      ]
+    },
+    {
+      "coalition_id": "buffer",
+      "groups": [
+        "buffer"
+      ]
+    },
+    {
+      "coalition_id": "polymer+additive",
+      "groups": [
+        "polymer",
+        "additive"
+      ]
+    },
+    {
+      "coalition_id": "polymer+salt",
+      "groups": [
+        "polymer",
+        "salt"
+      ]
+    },
+    {
+      "coalition_id": "polymer+buffer",
+      "groups": [
+        "polymer",
+        "buffer"
+      ]
+    },
+    {
+      "coalition_id": "additive+salt",
+      "groups": [
+        "additive",
+        "salt"
+      ]
+    },
+    {
+      "coalition_id": "additive+buffer",
+      "groups": [
+        "additive",
+        "buffer"
+      ]
+    },
+    {
+      "coalition_id": "salt+buffer",
+      "groups": [
+        "salt",
+        "buffer"
+      ]
+    },
+    {
+      "coalition_id": "polymer+additive+salt",
+      "groups": [
+        "polymer",
+        "additive",
+        "salt"
+      ]
+    },
+    {
+      "coalition_id": "polymer+additive+buffer",
+      "groups": [
+        "polymer",
+        "additive",
+        "buffer"
+      ]
+    },
+    {
+      "coalition_id": "polymer+salt+buffer",
+      "groups": [
+        "polymer",
+        "salt",
+        "buffer"
+      ]
+    },
+    {
+      "coalition_id": "additive+salt+buffer",
+      "groups": [
+        "additive",
+        "salt",
+        "buffer"
+      ]
+    },
+    {
+      "coalition_id": "polymer+additive+salt+buffer",
+      "groups": [
+        "polymer",
+        "additive",
+        "salt",
+        "buffer"
+      ]
+    }
+  ],
+  "model_definitions": {
+    "descriptor24_buffer_regressor_xgboost": {
+      "task": "regression",
+      "feature_set": "descriptor24",
+      "family": "XGBoost"
+    },
+    "descriptor24_buffer_regressor_mlp": {
+      "task": "regression",
+      "feature_set": "descriptor24",
+      "family": "MLP"
+    },
+    "two_slot_pca38_buffer_regressor_xgboost": {
+      "task": "regression",
+      "feature_set": "two_slot38",
+      "family": "XGBoost"
+    },
+    "two_slot_pca38_buffer_regressor_mlp": {
+      "task": "regression",
+      "feature_set": "two_slot38",
+      "family": "MLP"
+    },
+    "descriptor24_buffer_classifier_xgboost": {
+      "task": "classification",
+      "feature_set": "descriptor24",
+      "family": "XGBoost"
+    },
+    "descriptor24_buffer_classifier_mlp": {
+      "task": "classification",
+      "feature_set": "descriptor24",
+      "family": "MLP"
+    },
+    "two_slot_pca38_buffer_classifier_xgboost": {
+      "task": "classification",
+      "feature_set": "two_slot38",
+      "family": "XGBoost"
+    },
+    "two_slot_pca38_buffer_classifier_mlp": {
+      "task": "classification",
+      "feature_set": "two_slot38",
+      "family": "MLP"
+    }
+  },
+  "pca_policy": {
+    "source": "retained fitted model artifacts used by the overall benchmark",
+    "fit_chemical_count": 18,
+    "fit_chemical_names": [
+      "CHAPS",
+      "CTAB",
+      "CaCl2",
+      "KCl",
+      "MgCl2",
+      "NH4Cl",
+      "Na2HPO4",
+      "Na2S2O3",
+      "Na2SO4",
+      "NaBr",
+      "NaCl",
+      "NaI",
+      "NaNO3",
+      "NaSCN",
+      "Pluronic F127",
+      "SDS",
+      "Span-85",
+      "Urea"
+    ],
+    "components_sha256": "e1582c2674245040e490b213222aabad2974f15b88f701bd21ec31ce6021eb69",
+    "scores_sha256": "0bc29da7a9f0ce8942e4eae95a195bcee807969078235322e18996ae44155b50",
+    "structure_registry_sha256": "5cc46d7a756fff5ca64b18dde6b7eca5d7eddeeb272f3a5459474481261dbaec",
+    "molformer_model_id": "ibm-research/MoLFormer-XL-both-10pct",
+    "molformer_snapshot_revision": "7b12d946c181a37f6012b9dc3b002275de070314",
+    "artifact_sha256": {
+      "two_slot_pca38_buffer_classifier_mlp.joblib": "1501e194cd84df2440d622132ddcfdcd73215117d41e76e543ef853fca45c1e2",
+      "two_slot_pca38_buffer_classifier_xgboost.joblib": "2f114e74157c55fcc1c6aaa3fa5fe071c7352ad3bb308562577177e9b58605f5",
+      "two_slot_pca38_buffer_regressor_mlp.joblib": "66012b18b4434ad27b5422673efb03e15d3061fe2463d28ab4a105a59b95cb18",
+      "two_slot_pca38_buffer_regressor_xgboost.joblib": "18f4dcfd776591c8262553df0bb68a9ac426aa01d3c8bf50e3550fb58411365b"
+    }
+  },
+  "software": {
+    "python": "3.12.3",
+    "numpy": "2.2.4",
+    "pandas": "2.2.3",
+    "scikit_learn": "1.8.0",
+    "torch": "2.6.0+cu124",
+    "xgboost": "3.2.0"
+  },
+  "checks": {
+    "all_40_model_seed_shards_present": true,
+    "prediction_row_count_matches_dataset": true,
+    "all_16_coalitions_present": true,
+    "finite_predictions": true,
+    "classification_probabilities_sum_to_one": true,
+    "shapley_efficiency_identity": true,
+    "seed_shapley_efficiency_identity": true,
+    "full_losses_match_report_evaluation": true,
+    "dexma_only_scoring_count_matches_dataset": true
+  },
+  "shard_sha256": {
+    "descriptor24_buffer_regressor_xgboost__seed_42.csv": "002a70f40d16acf0307cb133f7e0107d95a8b29bd73b2ab73f915f3e2de88bd6",
+    "descriptor24_buffer_regressor_xgboost__seed_43.csv": "111f2ad8324a04c13bd88fb34e0c4320b58ffcd773d6e00db52298c225853554",
+    "descriptor24_buffer_regressor_xgboost__seed_44.csv": "43d56174eea5651679f2658070702d25ec2973d5c1737ac7cd825b4901a6d98e",
+    "descriptor24_buffer_regressor_xgboost__seed_45.csv": "c701f9aeda5f2dcbd5c09e1c5351c069d6927f58990c1513f34f064953fb5278",
+    "descriptor24_buffer_regressor_xgboost__seed_46.csv": "1602f897b6beaaa7709bd7682db8d2469b084af3490ddd14bd6a3fb221b8b744",
+    "descriptor24_buffer_regressor_mlp__seed_42.csv": "7ab11fc1b77eaab0908255d9960fc645b25a0a87a1aeef9cd203efe4acbbac84",
+    "descriptor24_buffer_regressor_mlp__seed_43.csv": "9feb55b49601553877119d1936f18d8724e130609c0fa00611f613d7c3b993ba",
+    "descriptor24_buffer_regressor_mlp__seed_44.csv": "801d26a91bbcc3f6731dff0a6f68b3e49dcf3e5e2f82c198e9e3e5b3cd645f4f",
+    "descriptor24_buffer_regressor_mlp__seed_45.csv": "512b49fd2f19decff8298c7398de222127e7546b0c2c06c07579d2b24468e1ee",
+    "descriptor24_buffer_regressor_mlp__seed_46.csv": "d4f6fe6147985576aac8d85b6ac85f8581e962bf40623c03216c3a7a77729bf8",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_42.csv": "c235efc8697d59a19c52e2c9e2eebf24acaf9cd5bb72a2221b8ba00b51106a1a",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_43.csv": "4004b54597d2e19296c3c9497226d506d2ae1719cde4a98c9d94bdafff336716",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_44.csv": "6df9e7ad8f674403555028a8a8d67da6a68cd4b322e705c934f52166ab036084",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_45.csv": "597a2966406a7c62602a65f33df54f71a085755103856e0e65411f2780ed73a2",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_46.csv": "f206c07a78cfaa8089c5cd74270dc757378bc981cb0bf2cc6fd5b82094cbccd1",
+    "two_slot_pca38_buffer_regressor_mlp__seed_42.csv": "979abca08139e38dba8dfbb1fc52318f5bf1b138031d466bba5d69cd3c5c39e2",
+    "two_slot_pca38_buffer_regressor_mlp__seed_43.csv": "c932ca7afb253231f1d8da01d694057638a6d43d48db6afa30b46a193e907af3",
+    "two_slot_pca38_buffer_regressor_mlp__seed_44.csv": "0f0faa0224ed7dcfe5066cfed2ae5340e8d112b450d7ae78cdad07f26157f943",
+    "two_slot_pca38_buffer_regressor_mlp__seed_45.csv": "50b90f6801667fc2a5d89e1c661703355b2a5410a37616086f6e94babef7169e",
+    "two_slot_pca38_buffer_regressor_mlp__seed_46.csv": "3af5b68b42b0e9aa2846dedd23deb491b2de53697787c94487bdbe9a99ebdc7a",
+    "descriptor24_buffer_classifier_xgboost__seed_42.csv": "065557d89ffb4236d714ef3e372adf72cbf7e5afdb9d70572e505266d36a9233",
+    "descriptor24_buffer_classifier_xgboost__seed_43.csv": "01a2eb3c655e00e008be635b7f855fca9bb9e6be28e4ecee348dd0cd4e945f8e",
+    "descriptor24_buffer_classifier_xgboost__seed_44.csv": "0156d24c1f186930036aee4203eca44f66ca1b101d6771a01615a1e75793ad4b",
+    "descriptor24_buffer_classifier_xgboost__seed_45.csv": "3c3b3d14801824e50958b0570b811de824fc18665aaa1c389f9e4e4dffd0b804",
+    "descriptor24_buffer_classifier_xgboost__seed_46.csv": "76a8c0af292c53293ea010859686dd2ac075a1518e6f66bdc2befdec5f4bb316",
+    "descriptor24_buffer_classifier_mlp__seed_42.csv": "36804c41d939d8643013485c6e37abf6b5fd0ecec4a387f35a4918f4526cf462",
+    "descriptor24_buffer_classifier_mlp__seed_43.csv": "8e9323c81a9d174b7a1b8b375a7b53d18170ee49d6a317d5c1f03dfc55706f64",
+    "descriptor24_buffer_classifier_mlp__seed_44.csv": "38834651ad585acfe18cc81819ea154e9bbd15ec362a801fae9929b51fec927b",
+    "descriptor24_buffer_classifier_mlp__seed_45.csv": "fa4687c3a9cccc55602822b6fafd4189ec482b0f241fbc093fba8c94b632a45b",
+    "descriptor24_buffer_classifier_mlp__seed_46.csv": "7c0e9aea3c4c3b485572ce6418f4933656b7d5c277da627bff338c0b24a4f826",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_42.csv": "e8816967d54507cb48e5733a176e4adc81983e278690ca8d5fb7b93ff21d2229",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_43.csv": "6738a92d1e0a796125e1f1d2647872256c0f9e70221a7feaeaad979438cd1800",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_44.csv": "9e42410cb1498e8a5c358ae0de7f7b77e89c5936e0d9a2d384d88d1b91cad785",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_45.csv": "3f768315ad19e34c0d59755659532c8b7bc543dd9b53decf4e3deb7ea8c9d763",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_46.csv": "ab9172bc5b090217f9a692e837d52d2178de8a17eef6db0ccc3cc3ade925bb9c",
+    "two_slot_pca38_buffer_classifier_mlp__seed_42.csv": "73254d343a0cb99544b7cc89b8138e075722ad4e5e8ef8705aedfc5a2f6bd01c",
+    "two_slot_pca38_buffer_classifier_mlp__seed_43.csv": "3310957c7692c9d43954769595e9218cd386af42afcb7ac00c7d7df861b4baca",
+    "two_slot_pca38_buffer_classifier_mlp__seed_44.csv": "e10f6e6c4a5c1db51d9fe6b270b1d5fb02760db72ebf7dedc7d458fac845a690",
+    "two_slot_pca38_buffer_classifier_mlp__seed_45.csv": "2de5fec70a2a8747a01d1e2c5136d80315c5a238c01a5dc3e13cc2522cf5b126",
+    "two_slot_pca38_buffer_classifier_mlp__seed_46.csv": "717833d15b24560282f03dc17a1b1eb5a5717c3f106f138bb06387dd65d7eb8d"
+  },
+  "shard_manifest_sha256": {
+    "descriptor24_buffer_regressor_xgboost__seed_42.manifest.json": "70685da7f744de04f944d72ae57a98442202e8b9523537c2736a9ec7851624d3",
+    "descriptor24_buffer_regressor_xgboost__seed_43.manifest.json": "abace9d1c3c59bdeb292b8c3a4437ad7aa64ec64c3d8fbbe9dfc1afbbeaa1bd3",
+    "descriptor24_buffer_regressor_xgboost__seed_44.manifest.json": "cbf61fcde26af7af8a7fd6e3cb9e1e17ecaeec1d07cca7f8e98103b01a2f6d58",
+    "descriptor24_buffer_regressor_xgboost__seed_45.manifest.json": "156e295316ff9e84899b2a44e497e604d7e9d3c8979fd1a2bee737cba9314c46",
+    "descriptor24_buffer_regressor_xgboost__seed_46.manifest.json": "417462602c39b9dfe0cc2fefc86ec45f52bee3bb6a0bdaa22e4808a9c660ea2a",
+    "descriptor24_buffer_regressor_mlp__seed_42.manifest.json": "591e1a1a92e91bce9e80eec663dfd6ffc89a14eba48b4f785580d22a58b3b26f",
+    "descriptor24_buffer_regressor_mlp__seed_43.manifest.json": "6690bdb3d45f725c532b37b317442ac24bca4bc17e2508e8214e1fc1f3ef9cdd",
+    "descriptor24_buffer_regressor_mlp__seed_44.manifest.json": "128350f94abe7ce166c5cebe7d3fbd1467c0a21f296d23eb68a769be72613d2f",
+    "descriptor24_buffer_regressor_mlp__seed_45.manifest.json": "241678c33be3a9b58f231189548b18dbab1563839a2ba78d2db55659e3b42a27",
+    "descriptor24_buffer_regressor_mlp__seed_46.manifest.json": "7f2c755aa8de41b73eb3d5951e173b5012bf7b1d1518338f95bcaa92a16f5756",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_42.manifest.json": "3b7eb4dec26a4fb10f099f33c485ba99990392a84d9a4cc0f63d652c0ce9b92c",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_43.manifest.json": "bed75262ad7b469d370e53029af44c1f15b3a2434c3cda63f9275c70b7e75729",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_44.manifest.json": "7e55c09a707dcc94fdcb1afea1c23d306722937dc8cbd18cea52938dd48e29b3",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_45.manifest.json": "349c42ca739ebac5821fc3c39eff244d2543896c6a63569027c14d1fa9c30ce1",
+    "two_slot_pca38_buffer_regressor_xgboost__seed_46.manifest.json": "52a747ab1a5725ace1f61320b98f7e861a8d1dbf9b569f4f75b003e3dec98602",
+    "two_slot_pca38_buffer_regressor_mlp__seed_42.manifest.json": "e19ff3b0e2fbfbe13c6dca860968ac6353435ee327e5afa785a12fdaa747d161",
+    "two_slot_pca38_buffer_regressor_mlp__seed_43.manifest.json": "5ab4a6bba91459d37943bcccd2c45ff6d2153fd2742149e4a86dd4a2b4d503b8",
+    "two_slot_pca38_buffer_regressor_mlp__seed_44.manifest.json": "9ee2cf1811f2ffc89d86a09e8c6ea8512ea45abc330c93a6d07abb1ee200b135",
+    "two_slot_pca38_buffer_regressor_mlp__seed_45.manifest.json": "3e692a83a1e3374c6324c4f4e175a4de1e02431227e2e54aeea840ade541ff5d",
+    "two_slot_pca38_buffer_regressor_mlp__seed_46.manifest.json": "0f0b4b20d72445769eb837ca6ed7763126a397bb3797a9b8fbe6868a4387e81c",
+    "descriptor24_buffer_classifier_xgboost__seed_42.manifest.json": "82a2c4f8247bea2dfa7fe6169410460d192165aa1ecabaa099c90a9d953c8982",
+    "descriptor24_buffer_classifier_xgboost__seed_43.manifest.json": "87fd76b60a1db482e4f86c487328aae72ee54dc6d01e72fa325118ae8b17d70a",
+    "descriptor24_buffer_classifier_xgboost__seed_44.manifest.json": "f569698c613ccb72ab07c05391aad2b935fcd840790eabd6932a0c8be2c2ce63",
+    "descriptor24_buffer_classifier_xgboost__seed_45.manifest.json": "b6edcbcdbfb439b39ccbba531181176f88c4bf2f17fd35168a5f81f29108482f",
+    "descriptor24_buffer_classifier_xgboost__seed_46.manifest.json": "01da010e77891848dd5a62a6f81727bb312559d05189f516ffd86aa69914b6a0",
+    "descriptor24_buffer_classifier_mlp__seed_42.manifest.json": "9c984a0f451f9d91c3209a107bbbfc284448b804df79854808a5f4a6fcf54fe9",
+    "descriptor24_buffer_classifier_mlp__seed_43.manifest.json": "b20ff1082b684f0f85530ef7e9c5bd60477803ef756d1331296f6d4212e83172",
+    "descriptor24_buffer_classifier_mlp__seed_44.manifest.json": "e1a7cc00afc8d76043be907c25e73de9687391f36315883bde282b065346577e",
+    "descriptor24_buffer_classifier_mlp__seed_45.manifest.json": "56447fbfce9bae4e4afca2441d714a57367da3457ce85f1157d90ce76a78dd10",
+    "descriptor24_buffer_classifier_mlp__seed_46.manifest.json": "fc28903701e9ecd99ed27401aa7f39b4a63c319c79c591b86a6e1a0bfecbdb79",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_42.manifest.json": "9614b64165062825e64e38d9e8e77b993c793d084cf3e76ee0a8dc66082fd330",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_43.manifest.json": "619996400d3201253cd386d2d1c4dad093186235c2ac8bf648a3e344f465f02f",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_44.manifest.json": "628c7eb06dc91a47a86df89f8102e256f04f7be92c0334ee804f13546f2a6b95",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_45.manifest.json": "4c93697280eb98bff30203ea7c55f4faa369e116318fdbb2d91fcfb982fae1d0",
+    "two_slot_pca38_buffer_classifier_xgboost__seed_46.manifest.json": "be8d47fb0e02c8fde8b176638dfee111fd997ac987b004195a7c129bfbba9f2e",
+    "two_slot_pca38_buffer_classifier_mlp__seed_42.manifest.json": "ffa2eca7826fdc060f03ed396232bb0d635cc5d9308afb09271f6b60d3d9f765",
+    "two_slot_pca38_buffer_classifier_mlp__seed_43.manifest.json": "0094345ad44902fd36f51911b8853b40cea2d6ff9dfec0e16b417103fb3f1877",
+    "two_slot_pca38_buffer_classifier_mlp__seed_44.manifest.json": "aee0a82c14b99fa663179af34eef4899f2983d0858d7434726ea22108168b7f3",
+    "two_slot_pca38_buffer_classifier_mlp__seed_45.manifest.json": "cac5f7623358551f5513f03531f0c1a17c9e5db4a6aae886b6ae06fd54d46128",
+    "two_slot_pca38_buffer_classifier_mlp__seed_46.manifest.json": "b40200decdc26acc307e3c244409c4e67c68ea8fe617491534d367053b1d6f37"
+  },
+  "output_sha256": {
+    "coalition_predictions_long.csv": "6547a1737a66bb005a487434c9ed371058202bf6b29fac667c639ba80f619863",
+    "coalition_losses.csv": "8060741f8bb99534850a11edc6f7180c33d435a0cb5699a9a8eabe7401f062d1",
+    "coalition_losses_by_seed.csv": "c5af6b4dcd7ad4ba9080ea769efb74619063ef83a3ca30dbdc2f079950ed4819",
+    "shapley_importance.csv": "296f327c5e4ac2021f3fa4f54117000d63cc12e6bab729a133ba3a3c1ac2f3be",
+    "shapley_importance_by_seed.csv": "7e0ab314eb69d8e7c50c263086ad3e9b50babe731e8b9bad8ee676b0e38f9312",
+    "rank_stability.csv": "ad9afeb265e82a7eefb553b47aeaabf1b95c73c33d2e0da8ae2d3b50677edff4",
+    "condition_group_contributions.csv": "d50dcfff5c62e29a73710858454acab7002a1b5a24c6621f6d7f9fa7ca419573",
+    "logo_importance.csv": "fc6b12dd165daed42e1336cb899aded367a0213b12839d34cc5af1d6062f9675"
+  },
+  "interpretation": "Predictive information available to the specified learner and representation within the represented formulation distribution; not an effect direction, molecular mechanism, unseen-chemical guarantee, or causal estimate."
+}

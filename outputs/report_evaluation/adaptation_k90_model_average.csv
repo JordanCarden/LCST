@@ -1,0 +1,11 @@
+domain,domain_type,task,model_id,feature_set,model_family,metric,kmax,fitted_baseline,fitted_endpoint,fitted_improvement,k90
+CHAPS,additive,classification,equal_model_average,both,XGBoost_and_MLP,cross_entropy,49,1.8229168335997066,0.18113484340186964,1.641781990197837,17
+CHAPS,additive,regression,equal_model_average,both,XGBoost_and_MLP,mae,41,9.91659539284202,3.3924766197077423,6.524118773134277,18
+CTAB,additive,classification,equal_model_average,both,XGBoost_and_MLP,cross_entropy,61,0.4543920157335058,0.2317208294764277,0.2226711862570781,58
+CTAB,additive,regression,equal_model_average,both,XGBoost_and_MLP,mae,47,5.853858792529845,3.106444729235456,2.7474140632943893,33
+Na2SO4,salt,classification,equal_model_average,both,XGBoost_and_MLP,cross_entropy,35,1.2189378726813624,0.4109539003543971,0.8079839723269653,30
+Na2SO4,salt,regression,equal_model_average,both,XGBoost_and_MLP,mae,10,8.027773576048801,6.408579357144832,1.619194218903969,10
+NaCl,salt,classification,equal_model_average,both,XGBoost_and_MLP,cross_entropy,144,0.9219733838733775,0.2916427500317771,0.6303306338416004,76
+NaCl,salt,regression,equal_model_average,both,XGBoost_and_MLP,mae,96,10.775680237199175,3.57726508399364,7.198415153205535,28
+SDS,additive,classification,equal_model_average,both,XGBoost_and_MLP,cross_entropy,122,2.1900812697722447,0.5111717975218351,1.6789094722504097,59
+SDS,additive,regression,equal_model_average,both,XGBoost_and_MLP,mae,47,8.670087611588318,5.248932862084556,3.4211547495037626,40

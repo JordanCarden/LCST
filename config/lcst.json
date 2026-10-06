@@ -1,0 +1,716 @@
+{
+  "chemical_metadata": {
+    "descriptor_lookup_version": "sourced_lookup_2026_09_16_v2",
+    "descriptor_provenance_file": "config/chemical_descriptor_sources.json",
+    "molformer": {
+      "model_id": "ibm-research/MoLFormer-XL-both-10pct",
+      "snapshot_revision": "7b12d946c181a37f6012b9dc3b002275de070314",
+      "structures": {
+        "CHAPS": {
+          "role": "additive",
+          "canonical_smiles": "C[C@H](CCC(=O)NCCC[N+](C)(C)CCCS(=O)(=O)[O-])[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C",
+          "source": "PubChem CID 107670"
+        },
+        "CTAB": {
+          "role": "additive",
+          "canonical_smiles": "CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-]",
+          "source": "PubChem CID 5974"
+        },
+        "CaCl2": {
+          "role": "salt",
+          "canonical_smiles": "[Cl-].[Cl-].[Ca+2]",
+          "source": "PubChem CID 5284359"
+        },
+        "KCl": {
+          "role": "salt",
+          "canonical_smiles": "[Cl-].[K+]",
+          "source": "PubChem CID 4873"
+        },
+        "MgCl2": {
+          "role": "salt",
+          "canonical_smiles": "[Mg+2].[Cl-].[Cl-]",
+          "source": "PubChem CID 5360315"
+        },
+        "NH4Cl": {
+          "role": "salt",
+          "canonical_smiles": "[NH4+].[Cl-]",
+          "source": "PubChem CID 25517"
+        },
+        "Na2HPO4": {
+          "role": "salt",
+          "canonical_smiles": "OP(=O)([O-])[O-].[Na+].[Na+]",
+          "source": "PubChem CID 24203"
+        },
+        "Na2S2O3": {
+          "role": "salt",
+          "canonical_smiles": "[O-]S(=O)(=S)[O-].[Na+].[Na+]",
+          "source": "PubChem CID 24477"
+        },
+        "Na2SO4": {
+          "role": "salt",
+          "canonical_smiles": "[O-]S(=O)(=O)[O-].[Na+].[Na+]",
+          "source": "PubChem CID 24436"
+        },
+        "NaBr": {
+          "role": "salt",
+          "canonical_smiles": "[Na+].[Br-]",
+          "source": "PubChem CID 253881"
+        },
+        "NaCl": {
+          "role": "salt",
+          "canonical_smiles": "[Na+].[Cl-]",
+          "source": "PubChem CID 5234"
+        },
+        "NaI": {
+          "role": "salt",
+          "canonical_smiles": "[Na+].[I-]",
+          "source": "PubChem CID 5238"
+        },
+        "NaNO3": {
+          "role": "salt",
+          "canonical_smiles": "[N+](=O)([O-])[O-].[Na+]",
+          "source": "PubChem CID 24268"
+        },
+        "NaSCN": {
+          "role": "salt",
+          "canonical_smiles": "C(#N)[S-].[Na+]",
+          "source": "PubChem CID 516871"
+        },
+        "Pluronic F127": {
+          "role": "additive",
+          "canonical_smiles": "CC(COCCO)OCCO",
+          "source": "PubChem CID 10154203; oligomer proxy used by the original LCST pipeline"
+        },
+        "SDS": {
+          "role": "additive",
+          "canonical_smiles": "CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]",
+          "source": "PubChem CID 3423265"
+        },
+        "Span-85": {
+          "role": "additive",
+          "canonical_smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)OC[C@H]([C@@H]1[C@@H]([C@H](CO1)O)OC(=O)CCCCCCC/C=C\\CCCCCCCC)OC(=O)CCCCCCC/C=C\\CCCCCCCC",
+          "source": "PubChem CID 9920343"
+        },
+        "Urea": {
+          "role": "additive",
+          "canonical_smiles": "NC(N)=O",
+          "source": "PubChem CID 1176"
+        }
+      }
+    },
+    "additive_descriptors": {
+      "CHAPS": {
+        "additive_carbons": 32.0,
+        "additive_class_anionic": 0.0,
+        "additive_class_cationic": 0.0,
+        "additive_class_nonionic": 0.0,
+        "additive_class_zwitterionic": 1.0,
+        "additive_formal_charge": 0.0,
+        "additive_hba": 7.0,
+        "additive_hbd": 4.0,
+        "additive_hlb": 25.6,
+        "additive_logp": 2.9,
+        "additive_mw_g_mol": 614.88,
+        "additive_tpsa_a2": 155.0
+      },
+      "CTAB": {
+        "additive_carbons": 19.0,
+        "additive_class_anionic": 0.0,
+        "additive_class_cationic": 1.0,
+        "additive_class_nonionic": 0.0,
+        "additive_class_zwitterionic": 0.0,
+        "additive_formal_charge": 1.0,
+        "additive_hba": 0.0,
+        "additive_hbd": 0.0,
+        "additive_hlb": 21.4,
+        "additive_logp": 8.0,
+        "additive_mw_g_mol": 364.45,
+        "additive_tpsa_a2": 0.0
+      },
+      "Pluronic F127": {
+        "additive_carbons": 595.0,
+        "additive_class_anionic": 0.0,
+        "additive_class_cationic": 0.0,
+        "additive_class_nonionic": 1.0,
+        "additive_class_zwitterionic": 0.0,
+        "additive_formal_charge": 0.0,
+        "additive_hba": 266.0,
+        "additive_hbd": 2.0,
+        "additive_hlb": 22.0,
+        "additive_logp": null,
+        "additive_mw_g_mol": 12600.0,
+        "additive_tpsa_a2": 2477.18
+      },
+      "SDS": {
+        "additive_carbons": 12.0,
+        "additive_class_anionic": 1.0,
+        "additive_class_cationic": 0.0,
+        "additive_class_nonionic": 0.0,
+        "additive_class_zwitterionic": 0.0,
+        "additive_formal_charge": -1.0,
+        "additive_hba": 4.0,
+        "additive_hbd": 0.0,
+        "additive_hlb": 40.0,
+        "additive_logp": 4.7,
+        "additive_mw_g_mol": 288.38,
+        "additive_tpsa_a2": 74.8
+      },
+      "Span-85": {
+        "additive_carbons": 60.0,
+        "additive_class_anionic": 0.0,
+        "additive_class_cationic": 0.0,
+        "additive_class_nonionic": 1.0,
+        "additive_class_zwitterionic": 0.0,
+        "additive_formal_charge": 0.0,
+        "additive_hba": 8.0,
+        "additive_hbd": 1.0,
+        "additive_hlb": 2.125,
+        "additive_logp": 21.5,
+        "additive_mw_g_mol": 957.5,
+        "additive_tpsa_a2": 108.0
+      },
+      "Urea": {
+        "additive_carbons": 1.0,
+        "additive_class_anionic": 0.0,
+        "additive_class_cationic": 0.0,
+        "additive_class_nonionic": 1.0,
+        "additive_class_zwitterionic": 0.0,
+        "additive_formal_charge": 0.0,
+        "additive_hba": 1.0,
+        "additive_hbd": 2.0,
+        "additive_hlb": null,
+        "additive_logp": -1.4,
+        "additive_mw_g_mol": 60.06,
+        "additive_tpsa_a2": 69.1
+      }
+    },
+    "molformer_pca16": {
+      "CHAPS": [
+        -0.9919129132,
+        -2.0933542867,
+        -5.6891705662,
+        1.7855637371,
+        -2.4026794639,
+        7.7274404839,
+        2.6841456192,
+        5.0843319022,
+        3.9213758155,
+        0.6334418121,
+        -1.5445711318,
+        0.2511942419,
+        -0.0532729394,
+        0.0505244594,
+        0.1405018514,
+        0.0231301746
+      ],
+      "CTAB": [
+        -6.4090363183,
+        -3.1904669281,
+        -9.7497567705,
+        -3.6999193047,
+        -6.0141425612,
+        -1.2283747103,
+        -4.9365968184,
+        -0.7070148622,
+        -0.9145724268,
+        2.4351056674,
+        1.5923468121,
+        0.1022423765,
+        1.4345739126,
+        -1.5456300892,
+        0.8541872983,
+        0.0304843009
+      ],
+      "CaCl2": [
+        0.4218604823,
+        10.1365863514,
+        0.4151011629,
+        -5.55412394,
+        1.2230960676,
+        -2.3716893743,
+        1.2048855689,
+        3.337876356,
+        -4.0008922125,
+        -0.4400393357,
+        -3.5723848779,
+        2.1556221329,
+        1.2904571342,
+        -0.5496833736,
+        -0.0305942343,
+        0.0307320626
+      ],
+      "KCl": [
+        7.5908514004,
+        8.1759239071,
+        1.1801280076,
+        0.0936517844,
+        -2.6563457129,
+        -6.7374328143,
+        -0.2602247137,
+        0.0424574325,
+        5.6685653287,
+        0.6396293968,
+        -0.349895169,
+        0.6486357319,
+        -2.1728916523,
+        -0.4710617027,
+        0.8290690137,
+        -0.024951687
+      ],
+      "MgCl2": [
+        0.8436295771,
+        11.4508155464,
+        1.7333156961,
+        -7.1268016974,
+        1.1609885244,
+        2.9680835437,
+        0.3791239098,
+        2.1740340324,
+        -1.5018918085,
+        -0.4141746984,
+        4.383281029,
+        -1.9063364119,
+        -1.4018122137,
+        0.442550999,
+        -0.0427460303,
+        -0.0577520573
+      ],
+      "NH4Cl": [
+        3.1692563314,
+        12.1717057629,
+        2.1787364433,
+        2.0212168987,
+        0.5916722691,
+        5.8222321084,
+        -3.0476374432,
+        -6.0791592155,
+        1.3699388875,
+        0.3371978094,
+        -1.5320949034,
+        0.092874306,
+        1.2099893149,
+        -0.0696248185,
+        -0.5129716649,
+        0.0302827442
+      ],
+      "Na2HPO4": [
+        -7.8942791113,
+        -4.9766422064,
+        5.7276929806,
+        -0.5317902571,
+        -1.3975142511,
+        -0.4506711015,
+        1.6878798292,
+        -0.264261675,
+        0.6288865842,
+        0.7704328488,
+        0.7899637182,
+        0.5826922122,
+        -0.5057569165,
+        -2.7106371329,
+        -3.0201543762,
+        -0.18348432
+      ],
+      "Na2S2O3": [
+        -8.589021181,
+        -3.9661763735,
+        5.945229828,
+        -0.5584168244,
+        -0.3325456244,
+        -0.2642038209,
+        0.6624363163,
+        -0.4077068123,
+        0.1283703742,
+        -0.9510440537,
+        -1.2798715655,
+        -1.8983768296,
+        0.7221031499,
+        -0.158761471,
+        1.6113413013,
+        -1.6601071489
+      ],
+      "Na2SO4": [
+        -8.4663063393,
+        -4.4793482334,
+        6.1164062419,
+        -1.2578935672,
+        -1.1430640698,
+        -0.1673985703,
+        0.6676203857,
+        -0.5527993259,
+        0.0157335494,
+        -1.7904699982,
+        -1.297523122,
+        -2.0656150772,
+        0.080317582,
+        -0.6150130822,
+        1.2266515942,
+        1.6479242753
+      ],
+      "NaBr": [
+        17.305857184,
+        -7.2487723607,
+        0.501374071,
+        -4.8284147982,
+        2.3078640127,
+        -2.5153331417,
+        -0.3517335153,
+        0.7350289413,
+        2.043873134,
+        0.7585507514,
+        -0.0054919317,
+        -1.6894855026,
+        2.8730296428,
+        1.4735234721,
+        -1.2337803868,
+        0.078501244
+      ],
+      "NaCl": [
+        18.8187889699,
+        -10.8280346303,
+        0.0611016651,
+        -2.6081225611,
+        3.0043199965,
+        3.0345117375,
+        -0.4661278729,
+        -1.8188026378,
+        -2.1855618585,
+        -0.7510411454,
+        -0.1770252288,
+        1.4718084369,
+        -2.2572258154,
+        -1.3044355682,
+        1.0310538979,
+        -0.0926534479
+      ],
+      "NaI": [
+        12.0012691348,
+        2.2554516237,
+        1.1461014255,
+        11.4875953102,
+        -7.769227673,
+        -1.0581561967,
+        1.1286001245,
+        1.1221932326,
+        -3.7109721554,
+        -0.7027894181,
+        0.7989414725,
+        -0.9155142177,
+        0.357679463,
+        0.175648395,
+        -0.2204914607,
+        -0.0134508381
+      ],
+      "NaNO3": [
+        -6.5139531491,
+        -4.1246765406,
+        7.1870482521,
+        0.3311929573,
+        -1.7378471537,
+        0.5742004688,
+        0.4651174727,
+        -0.359425265,
+        0.4344796579,
+        0.9542699545,
+        2.5830099321,
+        3.7618864218,
+        0.9662562122,
+        2.3701918438,
+        0.6914608584,
+        0.1424153473
+      ],
+      "NaSCN": [
+        -5.1727618249,
+        -0.7091898402,
+        0.903631933,
+        6.4610192387,
+        8.2023330472,
+        -1.0050195068,
+        -2.9001023372,
+        1.9142568488,
+        -1.3832189951,
+        5.5511582997,
+        -0.6327530999,
+        -0.8093655571,
+        -1.112823175,
+        0.4599378043,
+        0.0402923647,
+        0.1306164597
+      ],
+      "Pluronic F127": [
+        -4.0997550907,
+        1.0544221025,
+        -8.5461357278,
+        0.971383755,
+        3.4049667564,
+        -1.9381060221,
+        8.1155987921,
+        -4.2439859868,
+        -0.5509430157,
+        0.9329637119,
+        0.7752077191,
+        -0.1831599591,
+        0.3000404611,
+        0.2209319564,
+        0.2726584926,
+        0.0573455841
+      ],
+      "SDS": [
+        -7.5207839233,
+        -3.7185440394,
+        -4.7450488427,
+        -2.4886320868,
+        -3.343027111,
+        -0.8966304215,
+        -2.1452744434,
+        -1.4039965428,
+        -1.2187876624,
+        -1.9864436315,
+        -2.1255694832,
+        -0.3595047906,
+        -2.5716846605,
+        2.8008943218,
+        -1.4699082756,
+        -0.1164002131
+      ],
+      "Span-85": [
+        -4.3438595341,
+        -5.8732245775,
+        -11.8968048915,
+        -1.5268875072,
+        -3.536551428,
+        1.8857928713,
+        -0.5388828863,
+        0.7091552203,
+        1.730789981,
+        0.164850949,
+        0.3610911843,
+        0.8697460559,
+        -1.7480728211,
+        -0.7751507899,
+        -1.840294066,
+        -0.592813263
+      ],
+      "Urea": [
+        -4.4937032289,
+        0.0903001452,
+        -4.3657557997,
+        5.5024913554,
+        6.901152947,
+        -1.493452662,
+        -2.8877108743,
+        1.4269735774,
+        1.2556168032,
+        -5.9767479708,
+        1.5944298302,
+        0.7604024855,
+        0.8410205002,
+        -0.5693560134,
+        -0.1665702437,
+        -0.0226324802
+      ]
+    },
+    "salt_descriptors": {
+      "CaCl2": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 4.0,
+        "anion_stoich": 2.0,
+        "cation_charge": 2.0,
+        "cation_hofmeister_index": 6.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 110.98
+      },
+      "KCl": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 4.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 2.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 74.55
+      },
+      "MgCl2": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 4.0,
+        "anion_stoich": 2.0,
+        "cation_charge": 2.0,
+        "cation_hofmeister_index": 5.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 95.21
+      },
+      "NH4Cl": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 4.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 1.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 53.49
+      },
+      "Na2HPO4": {
+        "anion_charge": -2.0,
+        "anion_hofmeister_index": 2.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 3.0,
+        "cation_stoich": 2.0,
+        "salt_mw_g_mol": 141.96
+      },
+      "Na2S2O3": {
+        "anion_charge": -2.0,
+        "anion_hofmeister_index": null,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 3.0,
+        "cation_stoich": 2.0,
+        "salt_mw_g_mol": 158.11
+      },
+      "Na2SO4": {
+        "anion_charge": -2.0,
+        "anion_hofmeister_index": 1.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 3.0,
+        "cation_stoich": 2.0,
+        "salt_mw_g_mol": 142.04
+      },
+      "NaBr": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 5.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 3.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 102.89
+      },
+      "NaCl": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 4.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 3.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 58.44
+      },
+      "NaI": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 7.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 3.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 149.89
+      },
+      "NaNO3": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 6.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 3.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 84.99
+      },
+      "NaSCN": {
+        "anion_charge": -1.0,
+        "anion_hofmeister_index": 8.0,
+        "anion_stoich": 1.0,
+        "cation_charge": 1.0,
+        "cation_hofmeister_index": 3.0,
+        "cation_stoich": 1.0,
+        "salt_mw_g_mol": 81.07
+      }
+    }
+  },
+  "parsing_defaults": {
+    "additive_name": "No additive",
+    "buffer": "PBS",
+    "heating_rate_c_per_min": 1.0,
+    "polymer_concentration_mg_ml": 10.0,
+    "polymer_functionalization_percent": 88.0,
+    "polymer_mw_kda": 86.0,
+    "polymer_name": "Dex-MA",
+    "salt_name": "No salt"
+  },
+  "sources": [
+    {
+      "adapter": "legacy",
+      "expected_rows": 710,
+      "path": "data/raw/lcst.xlsx",
+      "sheets": [
+        "LCST for 86kDa Dex-MA",
+        "Hofmiester series",
+        "LCST for Diff Mw of Dextran",
+        "LCST of DexMA in Urea",
+        "LCST with CTAB",
+        "LCST with SDS",
+        "LCST with CHAPS",
+        "LCST with Pluronic",
+        "LCST - Different HeatingRate"
+      ]
+    },
+    {
+      "adapter": "july07",
+      "expected_rows": 326,
+      "path": "data/raw/Surfactant and Salt - 07-07-26.xlsx",
+      "sheet": "Transition Results",
+      "columns": {
+        "condition": "Experiment condition",
+        "additive_concentration_mM": "Surfactant concentration (mM)",
+        "transition_temperature_c": "Transition temperature (°C)",
+        "transition_type": "Transition type"
+      }
+    },
+    {
+      "adapter": "july28",
+      "expected_rows": 147,
+      "path": "data/raw/Salt + Surfactant - 07-28-26.xlsx",
+      "sheet": "Transition Results - 07-28-26",
+      "columns": {
+        "condition": "Experiment condition",
+        "additive_concentration_mM": "Surfactant concentration (mM)",
+        "transition_temperature_c": "Transition temperature (°C)",
+        "transition_type": "Transition type"
+      }
+    },
+    {
+      "adapter": "august",
+      "expected_rows": 30,
+      "path": "data/raw/Initial Experimental Candidate Set - 08-14-26.xlsx",
+      "sheet": "Conditions",
+      "columns": {
+        "polymer_name": "polymer_name",
+        "polymer_mw_kda": "dex_mw_kda",
+        "polymer_functionalization_percent": "dex_functionalization_percent",
+        "polymer_concentration_mg_ml": "dex_concentration_mg_ml",
+        "buffer": "buffer",
+        "heating_rate_c_per_min": "temperature_ramp_c_per_min",
+        "additive_name": "additive_name",
+        "additive_concentration_mM": "additive_concentration_mM",
+        "salt_name": "salt_name",
+        "salt_concentration_mM": "salt_concentration_mM",
+        "transition_temperature_c": "Experimental Transition Temperature",
+        "transition_type": "Experimental Class"
+      }
+    },
+    {
+      "adapter": "august",
+      "expected_rows": 42,
+      "path": "data/raw/DexMA PBS and DI Water - 08-23-26.xlsx",
+      "sheet": "Conditions",
+      "columns": {
+        "polymer_name": "polymer_name",
+        "polymer_mw_kda": "dex_mw_kda",
+        "polymer_functionalization_percent": "dex_functionalization_percent",
+        "polymer_concentration_mg_ml": "dex_concentration_mg_ml",
+        "buffer": "buffer",
+        "heating_rate_c_per_min": "temperature_ramp_c_per_min",
+        "additive_name": "additive_name",
+        "additive_concentration_mM": "additive_concentration_mM",
+        "salt_name": "salt_name",
+        "salt_concentration_mM": "salt_concentration_mM",
+        "transition_temperature_c": "Experimental Transition Temperature",
+        "transition_type": "Experimental Class"
+      }
+    }
+  ]
+}

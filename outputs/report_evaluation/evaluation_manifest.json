@@ -1,0 +1,352 @@
+{
+  "feature_encoding": "zero_preserving_log1p_v2",
+  "concentration_references": {
+    "polymer_mg_ml": 1.0,
+    "additive_mM": 1.0,
+    "salt_mM": 1.0
+  },
+  "master_path": "/home/admin/Code/LCST/data/processed/lcst_master_observed.csv",
+  "master_sha256": "15917dd73f301d9ee74477d3e8b167f58112fb53e9a74ed83601036d92b46f9f",
+  "master_measurements": 1255,
+  "eligible_measurements": 1143,
+  "regression_conditions": 272,
+  "classification_conditions": 403,
+  "classification_dominant_classes": {
+    "LCST": 263,
+    "NONE": 110,
+    "UCST": 30
+  },
+  "mixed_classification_conditions": 19,
+  "no_dexma_controls": 48,
+  "static_seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "evaluated_holdouts": {
+    "unseen_additive": {
+      "regression": [
+        "CHAPS",
+        "CTAB",
+        "Pluronic F127",
+        "SDS",
+        "Span-85",
+        "Urea"
+      ],
+      "classification": [
+        "CHAPS",
+        "CTAB",
+        "Pluronic F127",
+        "SDS",
+        "Span-85",
+        "Urea"
+      ]
+    },
+    "unseen_salt": {
+      "regression": [
+        "CaCl2",
+        "KCl",
+        "MgCl2",
+        "NH4Cl",
+        "Na2HPO4",
+        "Na2S2O3",
+        "Na2SO4",
+        "NaBr",
+        "NaCl",
+        "NaI",
+        "NaNO3",
+        "NaSCN"
+      ],
+      "classification": [
+        "CaCl2",
+        "KCl",
+        "MgCl2",
+        "NH4Cl",
+        "Na2HPO4",
+        "Na2S2O3",
+        "Na2SO4",
+        "NaBr",
+        "NaCl",
+        "NaI",
+        "NaNO3",
+        "NaSCN"
+      ]
+    },
+    "unseen_molecular_weight": {
+      "regression": [
+        "20kDa",
+        "40kDa",
+        "86kDa",
+        "250kDa",
+        "500kDa"
+      ],
+      "classification": [
+        "20kDa",
+        "40kDa",
+        "86kDa",
+        "250kDa",
+        "500kDa"
+      ]
+    }
+  },
+  "adaptation_repeats": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "adaptation_panel_size": 10,
+  "adaptation_k_rule": "Every integer from 0 through N_target - 10",
+  "bootstrap_resamples": 2000,
+  "pca_policy": {
+    "within_dataset_cross_validation": "fit on all 18 configured chemicals",
+    "unseen_additive_or_salt": "fit on the 17 non-held-out chemicals and transform the holdout",
+    "molecular_weight_holdout": "fit on all 18 configured chemicals",
+    "random_target_domain_adaptation": "fit on all 18 configured chemicals and keep the basis fixed across k",
+    "molformer_model_id": "ibm-research/MoLFormer-XL-both-10pct",
+    "molformer_snapshot_revision": "7b12d946c181a37f6012b9dc3b002275de070314",
+    "structure_registry_sha256": "5cc46d7a756fff5ca64b18dde6b7eca5d7eddeeb272f3a5459474481261dbaec",
+    "embedding_dimension": 768,
+    "legacy_17_chemical_reproduction_max_abs_difference": 1.788171823502438e-06
+  },
+  "model_definitions": {
+    "descriptor24_buffer_regressor_xgboost": {
+      "task": "regression",
+      "feature_set": "descriptor24",
+      "family": "XGBoost"
+    },
+    "descriptor24_buffer_regressor_mlp": {
+      "task": "regression",
+      "feature_set": "descriptor24",
+      "family": "MLP"
+    },
+    "two_slot_pca38_buffer_regressor_xgboost": {
+      "task": "regression",
+      "feature_set": "two_slot38",
+      "family": "XGBoost"
+    },
+    "two_slot_pca38_buffer_regressor_mlp": {
+      "task": "regression",
+      "feature_set": "two_slot38",
+      "family": "MLP"
+    },
+    "descriptor24_buffer_classifier_xgboost": {
+      "task": "classification",
+      "feature_set": "descriptor24",
+      "family": "XGBoost"
+    },
+    "descriptor24_buffer_classifier_mlp": {
+      "task": "classification",
+      "feature_set": "descriptor24",
+      "family": "MLP"
+    },
+    "two_slot_pca38_buffer_classifier_xgboost": {
+      "task": "classification",
+      "feature_set": "two_slot38",
+      "family": "XGBoost"
+    },
+    "two_slot_pca38_buffer_classifier_mlp": {
+      "task": "classification",
+      "feature_set": "two_slot38",
+      "family": "MLP"
+    }
+  },
+  "mlp_regression_protocol": {
+    "hidden_layers": [
+      32,
+      16
+    ],
+    "dropout": 0.1,
+    "learning_rate": 0.001,
+    "weight_decay": 0.001,
+    "validation_fraction": 0.15,
+    "maximum_epochs": 500,
+    "patience": 50,
+    "minimum_delta": 0.0001,
+    "loss": "SmoothL1Loss on standardized LCST",
+    "optimizer": "AdamW",
+    "missing_values": "Present-group training medians; absent groups stay zero",
+    "feature_scaling": "Training-only MaxAbs scaling without centering"
+  },
+  "mlp_classification_protocol": {
+    "hidden_layers": [
+      32,
+      16
+    ],
+    "dropout": 0.1,
+    "learning_rate": 0.001,
+    "weight_decay": 0.001,
+    "validation_fraction": 0.15,
+    "maximum_epochs": 1000,
+    "patience": 50,
+    "minimum_delta": 0.0001,
+    "loss": "Soft-target cross-entropy",
+    "optimizer": "AdamW",
+    "missing_values": "Present-group training medians; absent groups stay zero",
+    "feature_scaling": "Training-only MaxAbs scaling without centering"
+  },
+  "software": {
+    "python": "3.12.3",
+    "numpy": "2.2.4",
+    "pandas": "2.2.3",
+    "torch": "2.6.0+cu124"
+  },
+  "checks": {
+    "dataset_counts_passed": true,
+    "no_formulation_leakage": true,
+    "held_out_components_absent": true,
+    "feature_contracts": {
+      "descriptor": 24,
+      "two_slot": 38
+    },
+    "finite_predictions": true,
+    "probabilities_sum_to_one": true,
+    "fixed_adaptation_panel_size": 10,
+    "random_adaptation_repeats": 10,
+    "pca_within_dataset_fit_count": 18,
+    "pca_unseen_chemical_fit_count": 17,
+    "pca_molecular_weight_fit_count": 18,
+    "pca_adaptation_fit_count": 18,
+    "pca_adaptation_basis_fixed_within_each_repeat": true,
+    "pca_adaptation_fitting_library_fixed_across_repeats": true,
+    "complete_individual_holdout_coverage": true
+  },
+  "repository_status": [
+    " M README.md",
+    " M config/lcst.json",
+    " D data/processed/lcst_master.csv",
+    " M lcst_pipeline/evaluation.py",
+    " M lcst_pipeline/features.py",
+    " M lcst_pipeline/ingest.py",
+    " M lcst_pipeline/modeling.py",
+    " M lcst_pipeline/report_evaluation.py",
+    " M lcst_pipeline/schema.py",
+    " M models/descriptor24_buffer_classifier_mlp.joblib",
+    " M models/descriptor24_buffer_classifier_xgboost.joblib",
+    " M models/descriptor24_buffer_regressor_mlp.joblib",
+    " M models/descriptor24_buffer_regressor_xgboost.joblib",
+    " M models/two_slot_pca38_buffer_classifier_mlp.joblib",
+    " M models/two_slot_pca38_buffer_classifier_xgboost.joblib",
+    " M models/two_slot_pca38_buffer_regressor_mlp.joblib",
+    " M models/two_slot_pca38_buffer_regressor_xgboost.joblib",
+    " M outputs/classifier_metrics.csv",
+    " M outputs/regression_metrics.csv",
+    " M outputs/report_evaluation/adaptation_curves.csv",
+    " M outputs/report_evaluation/adaptation_curves.pdf",
+    " M outputs/report_evaluation/adaptation_curves.png",
+    " M outputs/report_evaluation/adaptation_inventory.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_0.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_1.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_2.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_3.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_4.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_5.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_6.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_7.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_8.csv",
+    " M outputs/report_evaluation/adaptation_inventory_repeat_9.csv",
+    " M outputs/report_evaluation/adaptation_k90_by_model.csv",
+    " M outputs/report_evaluation/adaptation_k90_domain_average.csv",
+    " M outputs/report_evaluation/adaptation_k90_model_average.csv",
+    " M outputs/report_evaluation/adaptation_metrics_long.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_0.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_1.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_2.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_3.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_4.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_5.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_6.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_7.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_8.csv",
+    " M outputs/report_evaluation/adaptation_metrics_repeat_9.csv",
+    " M outputs/report_evaluation/adaptation_model_average_curves.csv",
+    " M outputs/report_evaluation/dataset_composition.pdf",
+    " M outputs/report_evaluation/dataset_composition.png",
+    " M outputs/report_evaluation/evaluation_manifest.json",
+    " M outputs/report_evaluation/metrics_by_seed.csv",
+    " M outputs/report_evaluation/metrics_summary.csv",
+    " M outputs/report_evaluation/molformer_embeddings.npz",
+    " D outputs/report_evaluation/old_vs_corrected_adaptation_curves.csv",
+    " D outputs/report_evaluation/old_vs_corrected_static_metrics.csv",
+    " M outputs/report_evaluation/overall_benchmark.pdf",
+    " M outputs/report_evaluation/overall_benchmark.png",
+    " M outputs/report_evaluation/paired_model_differences.csv",
+    " M outputs/report_evaluation/predictions_long.csv",
+    " M outputs/report_evaluation/results_notes.md",
+    " M outputs/report_evaluation/split_inventory.csv",
+    " M outputs/report_evaluation/unseen_chemistry.pdf",
+    " M outputs/report_evaluation/unseen_chemistry.png",
+    " D report/figures/figure1_overall_benchmark.pdf",
+    " D report/figures/figure1_overall_benchmark.png",
+    " D report/figures/figure2_domain_generalization.pdf",
+    " D report/figures/figure2_domain_generalization.png",
+    " D report/figures/figure3_adaptation_curves.pdf",
+    " D report/figures/figure3_adaptation_curves.png",
+    " D report/figures/figureS1_dataset_composition.pdf",
+    " D report/figures/figureS1_dataset_composition.png",
+    " D report/figures/plot_figure1_overall_benchmark.py",
+    " D report/figures/plot_figure2_domain_generalization.py",
+    " D report/figures/plot_figure3_adaptation_curves.py",
+    " D report/figures/plot_figureS1_dataset_composition.py",
+    " D report/lcst_report_draft.pdf",
+    " D report/lcst_report_overleaf.zip",
+    " D report/main.tex",
+    " D report/references.bib",
+    " D report/supporting_information.pdf",
+    " D report/supporting_information.tex",
+    " M scripts/predict.py",
+    " M scripts/rebuild_master.py",
+    "?? config/chemical_descriptor_notes.md",
+    "?? config/chemical_descriptor_sources.json",
+    "?? data/metadata/",
+    "?? data/processed/lcst_master_observed.csv",
+    "?? data/processed/lcst_master_polymer.csv",
+    "?? lcst_pipeline/chemical_metadata.py",
+    "?? lcst_pipeline/feature_importance.py",
+    "?? lcst_pipeline/polymer_hierarchical_importance.py",
+    "?? lcst_pipeline/preprocessing.py",
+    "?? outputs/feature_importance/",
+    "?? outputs/feature_tables/",
+    "?? outputs/polymer_hierarchical_importance/",
+    "?? outputs/refresh_backups/",
+    "?? outputs/refresh_runs/",
+    "?? report/analyses/",
+    "?? report/feature_importance_method_selection.md",
+    "?? report/figures/archive/",
+    "?? report/figures/figure1_dataset_composition.pdf",
+    "?? report/figures/figure1_dataset_composition.png",
+    "?? report/figures/figure2_prediction_diagnostics.pdf",
+    "?? report/figures/figure2_prediction_diagnostics.png",
+    "?? report/figures/figure3_shapley_importance.pdf",
+    "?? report/figures/figure3_shapley_importance.png",
+    "?? report/figures/figure4_domain_generalization.pdf",
+    "?? report/figures/figure4_domain_generalization.png",
+    "?? report/figures/figure5_adaptation_curves.pdf",
+    "?? report/figures/figure5_adaptation_curves.png",
+    "?? report/figures/metadata/",
+    "?? report/figures/plot_figure1_dataset_composition.py",
+    "?? report/figures/plot_figure2_prediction_diagnostics.py",
+    "?? report/figures/plot_figure3_shapley_importance.py",
+    "?? report/figures/plot_figure4_domain_generalization.py",
+    "?? report/figures/plot_figure5_adaptation_curves.py",
+    "?? report/figures/temp/",
+    "?? report/refresh_20260922/",
+    "?? scripts/check_chemical_metadata.py",
+    "?? scripts/run_feature_importance.py",
+    "?? scripts/run_observed_refresh.py",
+    "?? scripts/run_polymer_hierarchical_importance.py",
+    "?? tests/"
+  ],
+  "output_sha256": {
+    "adaptation_metrics_long.csv": "72f32ed1d0928c1f38f89c0691e6a0c584d65ae58bc028635a31d24ee6154fba",
+    "adaptation_inventory.csv": "abd593edb711326517cdf9fe46b6c5f788fa616e4b22fc286912c4027a0d8c27"
+  }
+}

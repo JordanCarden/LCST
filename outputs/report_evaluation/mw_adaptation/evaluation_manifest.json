@@ -1,0 +1,106 @@
+{
+  "created_utc": "2026-09-24T14:17:23.183502+00:00",
+  "elapsed_seconds": 168.6849971159827,
+  "master_sha256": "15917dd73f301d9ee74477d3e8b167f58112fb53e9a74ed83601036d92b46f9f",
+  "input_sha256": {
+    "data/processed/lcst_master_observed.csv": "15917dd73f301d9ee74477d3e8b167f58112fb53e9a74ed83601036d92b46f9f",
+    "config/lcst.json": "ff50aabbf743289661b34e8a44dcbda8debc5b324b0c412e57c54c59a7837e5c",
+    "outputs/report_evaluation/molformer_embeddings.npz": "0eaf4dbf95e1eef997aab3422e64a5a3b3e7d214af672beff3cfa9823b84952c",
+    "scripts/run_mw_adaptation.py": "e5542f68eb93e3bf621448a07bab8165c42363c2be36c2846ee0aecb29cbf11d",
+    "lcst_pipeline/report_evaluation.py": "a87109c00a3a7f3cd60da78cbf8c543ed50d6a3a0a542784cb675293f9dcd932",
+    "lcst_pipeline/evaluation.py": "faf3f05c23fdd0c5a5aa01e33ecd3439ce297b3481e6d1f5e90270544681bca4",
+    "lcst_pipeline/modeling.py": "b9e116a647993e837b339e67219d2257c0968a54f27ea0b0f9c11db585cb0907",
+    "lcst_pipeline/features.py": "5d1197ffb0fe97e2d4ae65507759251e56aceb3567594cfc935f30c71bfc082e",
+    "lcst_pipeline/preprocessing.py": "d37b46050c112dfcadc75349c94c22b768a079a74f19066ff8a6bb22564e8fa3",
+    "lcst_pipeline/embeddings.py": "5ef1ecf77026ae6e61624160a5dbcd59624b236e43b743b010b7989fa9a3c54c",
+    "lcst_pipeline/schema.py": "b7074ccb3a04592e20f4ffd4956fa56b02e45b37d9551c6ea035e1d9a794ec24"
+  },
+  "existing_results_sha256": {
+    "outputs/report_evaluation/adaptation_curves.csv": "58029c039a8676acf8e43f3445bf81b344effca35c05779ca5302f7d8910153a",
+    "outputs/report_evaluation/adaptation_inventory.csv": "abd593edb711326517cdf9fe46b6c5f788fa616e4b22fc286912c4027a0d8c27",
+    "outputs/report_evaluation/adaptation_inventory_repeat_0.csv": "8327e8e12781bce7b3d26f7737084e9d5f2a991a08b4ca35ea43e034e041e998",
+    "outputs/report_evaluation/adaptation_inventory_repeat_1.csv": "c2dd11e5a48d736c8d032e0aa6d2e488da0077a4c6928d0b5fe87976c285597b",
+    "outputs/report_evaluation/adaptation_inventory_repeat_2.csv": "ee1476bd50fb1372edbfd6aedf2dd63de86d6f61601ae605ea87761260cdc379",
+    "outputs/report_evaluation/adaptation_inventory_repeat_3.csv": "85f7f62c24801cee3b29d852fa234e096494344f2995b0383491e9309f13f883",
+    "outputs/report_evaluation/adaptation_inventory_repeat_4.csv": "9166d7253a6f3d8c9af68828d3fe602e0a600db1b781a3503556bc4e329015b2",
+    "outputs/report_evaluation/adaptation_inventory_repeat_5.csv": "d0084f88f7581b6ad6094268ac4f8bb031f5c0fed4d11dd29571b8377536b016",
+    "outputs/report_evaluation/adaptation_inventory_repeat_6.csv": "3165b011ad069960021b2ac30be5827cddecc486499d22111f1e2f88222f5c7b",
+    "outputs/report_evaluation/adaptation_inventory_repeat_7.csv": "10392f35eb3d9b038a380d2cfedc40f73147aaa9fff738398812f3dd63d96c47",
+    "outputs/report_evaluation/adaptation_inventory_repeat_8.csv": "56f9876b37ecdf2dd2b48fe62da7074ac7578286c25a1db03abde15e49defc16",
+    "outputs/report_evaluation/adaptation_inventory_repeat_9.csv": "e7c05ee4053b11f4dbfb43e48096912662c6baea133209fa3bf83f87bb8162c0",
+    "outputs/report_evaluation/adaptation_k90_by_model.csv": "39a4df3bbe9fee1f96241dbd6b53e8a7fee981b2b3ddeb094e8365c7ad78505f",
+    "outputs/report_evaluation/adaptation_k90_domain_average.csv": "24945405d84e239fc979cfecdf9273d8a34985fff6e86ac9c9c7554d3f477913",
+    "outputs/report_evaluation/adaptation_k90_model_average.csv": "9e0d7422415a171d4bb201268c8db0c8d15306ba7756185eadd4b5ebdcef734a",
+    "outputs/report_evaluation/adaptation_metrics_long.csv": "72f32ed1d0928c1f38f89c0691e6a0c584d65ae58bc028635a31d24ee6154fba",
+    "outputs/report_evaluation/adaptation_metrics_repeat_0.csv": "5a1f425897ad02a55f6ede81436a57ca5a6ad80bf5167469d07f340a56feb0ae",
+    "outputs/report_evaluation/adaptation_metrics_repeat_1.csv": "2c179e17a916d0a50925716ad093cbfba78fbae51ce6e94844b3114a04ac60d2",
+    "outputs/report_evaluation/adaptation_metrics_repeat_2.csv": "39260629e48eebd4b4b91c3bcb1f1400f09104ea5d7cf7812b643b35c70ca2e3",
+    "outputs/report_evaluation/adaptation_metrics_repeat_3.csv": "263c687b38fe5998c5e6e13d51191aa461a39d8d9d9d20072426477d04bfc770",
+    "outputs/report_evaluation/adaptation_metrics_repeat_4.csv": "15461c26d275bbe19880cf8457fce46650ef87a9dc4e70b7179b91a623126c58",
+    "outputs/report_evaluation/adaptation_metrics_repeat_5.csv": "5dd30a855ab603e72e017f697fc61a87e7688b987fa548203e3251c8a103551c",
+    "outputs/report_evaluation/adaptation_metrics_repeat_6.csv": "d10ab7347957dc307928b3a66d2d40f531492d69a401c6ba16669882f6930583",
+    "outputs/report_evaluation/adaptation_metrics_repeat_7.csv": "81eb6ca9ab6af210b0a110826df30269540fb924f85a907100bb45d447d8ec98",
+    "outputs/report_evaluation/adaptation_metrics_repeat_8.csv": "236407524d44981755f943040c99ddaa87cb41c2f9bfbf33c6b10e3b5c269733",
+    "outputs/report_evaluation/adaptation_metrics_repeat_9.csv": "bab70acacf8d3ddc095ff747b7bfba69babc569ed2ddea5fde75d6f82cf1befa",
+    "outputs/report_evaluation/adaptation_model_average_curves.csv": "fbf85afed8f9005c2147a7f4af68b7371092bfe64a51f3226c57ca16a2ce2d1e",
+    "outputs/report_evaluation/metrics_by_seed.csv": "10428b738cd59f33a4dc99764e2d870575ec2bf7875dc164359ca843286bfe5f",
+    "outputs/report_evaluation/metrics_summary.csv": "d5d82e8ad978b5a8c936172d20ec0e4bfaa748de24836bc8e69683e44b2c12e4",
+    "outputs/report_evaluation/paired_model_differences.csv": "5815be2746285d5fe1394e9217dbf9a8499d9960395bbeffd61adaa62bc436df",
+    "outputs/report_evaluation/predictions_long.csv": "fa0d292348aaa69af88738e53e7bb9f0b5737ff2b80ec9071d526f2d05595c6f",
+    "outputs/report_evaluation/split_inventory.csv": "64748260a4bcf2d246029ad5e62b5e100870ba8d87cfd627c652ed8692dd6f64",
+    "outputs/report_evaluation/evaluation_manifest.json": "1c89869497649f0b3277b7d50b1addafc625f019b273e211b38523f0ab8203b1"
+  },
+  "output_sha256": {
+    "adaptation_metrics_long.csv": "25cb52cb9cc23dd6f48e358ecda81e54c08418ef1d9d77e814fa1cc034929761",
+    "adaptation_inventory.csv": "dd4e3e221ec1b99f402aef16fdd22d6efbc1c4ad97b6dc5579ec150f7e96bb4f",
+    "adaptation_curves.csv": "2d8526e8eb654d0b13f426f5f80e01d4928d718c36199eeef16ddabccb342f04"
+  },
+  "models": {
+    "regression": "two_slot_pca38_buffer_regressor_xgboost",
+    "classification": "two_slot_pca38_buffer_classifier_xgboost"
+  },
+  "weights_kda": [
+    20,
+    40,
+    86,
+    250
+  ],
+  "repeats": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "excluded_weights": {
+    "500kDa": "Only six target formulations per task; insufficient for a fixed ten-formulation evaluation panel."
+  },
+  "fixed_evaluation_panel_size": 10,
+  "k_rule": "Every integer from zero to N_target minus ten",
+  "seed_rule": "Append 20, 40, 86 and 250 kDa after the five existing chemical targets; retain existing base seeds and task/repeat offsets.",
+  "classification_scoring": "Accuracy on single-observed-class members of each fixed panel; training and probabilistic scores retain empirical replicate proportions.",
+  "pca_policy": "All 18 chemicals, fixed across every acquisition step and repeat, as in the existing adaptation analysis.",
+  "bootstrap_resamples": 2000,
+  "checks": {
+    "existing_protocol_reproduction": {
+      "regression": {
+        "all_saved_metrics_reproduced": true,
+        "fixed_panel_reproduced": true,
+        "primary_score": 5.437010233513701
+      },
+      "classification": {
+        "all_saved_metrics_reproduced": true,
+        "fixed_panel_reproduced": true,
+        "primary_score": 0.5
+      }
+    },
+    "fixed_disjoint_panels": true,
+    "complete_acquisition_steps": true,
+    "existing_results_unchanged": true
+  }
+}
